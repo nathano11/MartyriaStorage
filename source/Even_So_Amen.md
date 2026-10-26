@@ -1,4 +1,4 @@
-# A Brief History of Herding
+# Even So, Amen
 
 *The first covenant was a deal over cattle. This is the history of how that deal got turned on people, and how to break it.*
 
@@ -182,7 +182,7 @@ So why not just crown one perfect ruler over the whole world? It's been tried. C
 
 The Gospels put Jesus directly against that. The devil shows him all the kingdoms of the world and says, "All this power will I give thee." He says no. Before Pilate he says, "My kingdom is not of this world." In Dostoevsky's novel *The Brothers Karamazov*, the Grand Inquisitor tells Jesus that refusing was his big mistake, because people just want bread and a master. Every attempt to force heaven onto earth by grabbing power has ended in a tyrant.
 
-And where is God in all this? The traditions keep putting him in the same place: not on a throne, but between people. "Where two or three are gathered together in my name, there am I in the midst of them." "No man hath seen God at any time. If we love one another, God dwelleth in us." The rabbis taught that when two people study together, God's presence rests between them. On the road to Emmaus, two grieving disciples walk with a stranger and only recognize Jesus when he breaks bread with them. No temple can hold that. No king can own it. No master can sell it.
+And where is God in all this? The traditions keep putting him in the same place: not on a throne, but between people. "Where two or three are gathered together in my name, there am I in the midst of them." "No man hath seen God at any time. If we love one another, God dwelleth in us." The rabbis taught that when two people study together, God's presence rests between them. On the road to Emmaus, two grieving disciples walk with a stranger and only recognize Jesus when he breaks bread with them. Picture any road, call it Mount Olivet Road, and any two people walking it honestly together. No temple can hold that. No king can own it. No master can sell it.
 
 Even Revelation's scariest picture of Jesus coming back points the same way. The rider has eyes like fire and "out of his mouth goeth a sharp sword," and his name is "The Word of God." The weapon is the word.
 

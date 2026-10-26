@@ -1,5 +1,8 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "redirects": [{ "source": "/martyria", "destination": "/", "permanent": true }]
+  "redirects": [
+    { "source": "/martyria", "destination": "/", "permanent": true },
+    { "source": "/herding", "destination": "/amen", "permanent": true }
+  ]
 }

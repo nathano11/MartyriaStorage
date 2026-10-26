@@ -3,7 +3,7 @@
 Static site hosting two texts:
 
 - `/`: ΜΑΡΤΥΡΙΑ, the Greek text
-- `/herding`: A Brief History of Herding
+- `/amen`: Even So, Amen
 
 Plain HTML, no build step. Deploy on Vercel with the framework preset set to "Other".
 
