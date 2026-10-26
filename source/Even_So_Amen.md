@@ -2,6 +2,14 @@
 
 *The first covenant was a deal over cattle. This is the history of how that deal got turned on people, and how to break it.*
 
+## How This Was Made
+
+This essay was written with an AI model, Claude. The ideas and the vision are the author's. The AI helped draft, source and fact-check the writing, composed the Greek testimony that goes with it, and checked every number by computer. You should know that up front, because a hidden hand on the record is exactly what this essay warns about.
+
+Two kinds of claims run through what follows. Most are documented, and you can check them in the sources at the end. Some are the author's own arguments, connections no textbook makes, and those are marked **Proposal**. Weigh them; don't swallow them. The standard scholarly reading counts as evidence, not a veto, and "the establishment would say that" isn't an answer either.
+
+The author is a witness, not a judge. If you find an error, say so, and the essay changes.
+
 ## 1. The Herd
 
 About ten thousand years ago, in the hills of what is now Turkey, people tamed the wild bull. That one change rewired the human race. The cattle line that spread across Europe and the Middle East started from a herd of about eighty animals.
@@ -50,7 +58,7 @@ Now look at the words that replaced the bull. Genesis 1, written by Judah's prie
 
 When the exiles came home, the scribe Ezra found that "the holy seed" had mixed with other peoples, and made the men send away their foreign wives and children (Ezra 9–10). When the people living in the old north offered to help rebuild the temple, Judah's leaders refused (Ezra 4:1–3). Around 111 BCE a Judean king destroyed the northerners' temple on Mount Gerizim.
 
-The covenant between people and the herd was destroyed, the people who kept it were written down as sinners, and the language of ruling animals was rewritten as the charter for ruling human beings. Everything after this grows from that root.
+**Proposal:** The covenant between people and the herd was destroyed, the people who kept it were written down as sinners, and the language of ruling animals was rewritten as the charter for ruling human beings. Everything after this grows from that root.
 
 ## 4. One God, One Law, One Shame
 
@@ -186,7 +194,31 @@ And where is God in all this? The traditions keep putting him in the same place:
 
 Even Revelation's scariest picture of Jesus coming back points the same way. The rider has eyes like fire and "out of his mouth goeth a sharp sword," and his name is "The Word of God." The weapon is the word.
 
-## 14. Ask These Questions
+## 14. The Third
+
+The oldest story the herders told wasn't about a king. It was about a hero. Scholars who rebuilt the myths of the first chariot peoples found the same tale in India, Iran and Greece. A serpent steals the cattle and hides them in a cave. A hero, often called the Third, kills the serpent, breaks open the rock and drives the cattle out. In India he is Trita. In Iran he is Thraetaona. The Greeks told it as Heracles taking the cattle of three-headed Geryon. And notice the end of the story: the hero frees the cattle. He doesn't keep them.
+
+The companion testimony, ΜΑΡΤΥΡΙΑ, puts the Third at its center, and he appears exactly three times. First he is the warrior who kills the serpent, with the Word for his sword. Then he is the one who stands between two: "Where two are gathered in truth and love, there I am, the third between them." Last, he gives back his power and goes home to his field, like Cincinnatus and Washington.
+
+**Proposal:** these aren't three answers. They are one figure seen from three sides: the warrior, the sacrifice and the bond between people. Each one fails alone. Force without sacrifice becomes the empire. Sacrifice without force gets crushed, or bought. Revelation has the picture. John is told to look for the Lion of Judah, and he turns and sees a Lamb (Revelation 5:5–6). The lion and the lamb are the same one.
+
+His road runs downward. He washes feet, refuses the kingdoms of the world and lays down his life, and the one who empties himself is raised up (Philippians 2:7–9). "The last shall be first" (Matthew 20:16). "He hath put down the mighty from their seats, and exalted them of low degree" (Luke 1:52).
+
+The merchant walks that road backward. The testimony says it in one line: the merchant who was last is made first, the priest is sold for silver, and the king is bought. **Proposal:** that is the counterfeit of "the last shall be first." The last really is made first, but by purchase, and on earth only. It's the church that says "I have need of nothing," and the rich fool who builds bigger barns the night he dies (Luke 12:16–21). "For what shall it profit a man, if he shall gain the whole world, and lose his own soul?" (Mark 8:36). Put the two roads side by side and decide which one is success.
+
+And the Third turns the bond back. The first covenant ran through a beast and the man who owned the herd. Judah's scribes turned it onto people. **Proposal:** the Third puts it back between people, where it belongs. "The sabbath was made for man, and not man for the sabbath" (Mark 2:27). So were the temple, the throne and the ledger, before they were turned around to rule us.
+
+## 15. The Price of Position
+
+Hierarchy can't be abolished. Every group that ever got anything done had someone leading the hunt, steering the ship or settling the fight. **Proposal:** so power has to be priced. The more you hold, the more you owe. "Unto whomsoever much is given, of him shall be much required" (Luke 12:48).
+
+The one at the top owes the most: to put the people's good ahead of his own, and to prove it where anyone can check. Keep the books open. Forgive debts. Accept being removed. Hand the power back when the job is done. Everyone else owes plain decency: tell the truth, keep your promises, and never treat another person as property.
+
+The proof has to be public, because the cheapest claim in the world is a spiritual one. Anyone can say his heart is pure. A sacrifice nobody can see is the Pharisee's move all over again, turning the Third's teaching into "servants, obey your masters." A real one shows up in works.
+
+The hero who kills the serpent, the king who lays down his life and the third between two are not three answers. They are one, seen from three positions. Force is sometimes necessary and sacrifice sometimes required, but each belongs to the Third only if the one who acts bears the cost and hands back what he won. The wheel stops turning in blood when those at the top pay first, and everyone else refuses to be anyone's rope.
+
+## 16. Ask These Questions
 
 Somebody has to lead the hunt. The problem is power without responsibility. Hold these questions up to any government, company, church or movement:
 
@@ -212,7 +244,45 @@ Can you leave without being ruined? What do you owe, and can it ever be forgiven
 
 **"Someone has to be in charge."** Agreed. The question was never whether we have leaders. It's whether they answer for the flock or rule it for themselves.
 
-## The Happy Slave
+## The Testimony
+
+This essay has a companion: ΜΑΡΤΥΡΙΑ, fifty lines of Koine Greek, the language of the New Testament. It tells the same story as prophecy, from the first bargain over cattle to the Jubilee. It's written the way ancient scribes wrote, in capitals with no spaces or accents. It was composed in 2026 with an AI model, not dug out of the sand, and nothing about it is meant to fool you. An English translation is published separately.
+
+**The title.** *Martys* is Greek for a witness, and *martyria* means testimony. In the New Testament it's courtroom language: "ye shall be witnesses unto me" (Acts 1:8), and Revelation calls Jesus "the faithful witness" (Revelation 1:5). By the second century, in the *Martyrdom of Polycarp*, the word had narrowed to a witness killed for what he testified, and English kept it as *martyr*. A witness reports what he saw, and the report can be checked and cross-examined. A martyr is a witness who pays. But a witness is never the judge. The verdict isn't his to give.
+
+**The numbers.** Every Greek letter is also a number, and the testimony was built so its sums carry meaning:
+
+| Feature | Sum | Meaning |
+| --- | --- | --- |
+| Lines | 50 = 7 × 7 + 1 | The Jubilee shape of Leviticus 25 |
+| First and last lines | 5047 each | The last line is Leviticus 25:10, word for word |
+| First letters of the seven sections | ΟΤΡΙΤΟΣ, "the Third," 1050 = 3 × 7 × 50 | The Third, the sabbath and the Jubilee |
+| The Word of God line, and the eye that never sleeps | 10,000 each | The span of the herd's history |
+| "The great land of the setting sun" | 1776 | America |
+| "There I am, the third between them" line | 8880 = 888 × 10 | 888 is the Greek name of Jesus |
+| Silver becomes a number, the number becomes god | 8658 = 666 × 13 | The number of the beast |
+| ΜΕΙΘΡΑΣ (Mithras, as Jerome spelled it) | 365 | The days of the year |
+| The whole text | 558,600 = 1050 × 532 | The Third, multiplied |
+
+Every figure was checked by script against standard Greek letter values, Α = 1 through Ω = 800. The sums prove the text was built on purpose. They don't prove its reading is right. And because the spelling carries the numbers, the Greek is locked: no letter will ever change, and its oddities get notes, not edits. This essay is the opposite. It stays open to correction.
+
+**The serpent.** Grain and debt are the serpent's two faces. In Greek, *ophis*, serpent, and *sitos*, grain, both add up to 780, and *drakon*, dragon, and *chreos*, debt, both add up to 975. The ledger is the dragon's tool. And the system eats its own servants: the priest is sold for silver, and the priests who served the bull die on their own altars.
+
+**The land of the setting sun.** The testimony never names America. It calls her the great land of the setting sun, the daughter of the exodus, who wrote on her seal that resistance to tyrants is obedience to God. Then she becomes Babylon the Great. An honest witness indicts his own country first, and the way back is the one Revelation gives: remember where you fell from, and do the first works.
+
+**The Jubilee shape.** Seven sections of seven lines, then one more, is the Jubilee count of Leviticus 25. The Book of Jubilees orders all of history in cycles of forty-nine years, and it survives complete only in Ge'ez, the old church language of Ethiopia. The Ethiopian Orthodox Tewahedo Church kept it, along with the Book of Enoch, through the centuries when other churches lost it. To them this shape isn't a code. It's simply how time is counted.
+
+**Between the texts.** **Proposal:** the Greek and the essay need each other. The Greek is compressed, locked and numerical. The essay is open, sourced and arguable. Alone, the Greek is a puzzle with no key, and the essay describes something you can't inspect. What neither holds alone shows up between them, which is the shape of the Third himself, the one who stands between two. You are the second party, and the meaning lives between you and the text. A form can't prove its own claim, so test it.
+
+**A caution.** The testimony may commit the very sin it condemns. It builds a framework that explains everything: ten tools for every kind of mastery, one wheel for every cycle, one Third who answers them all, and numbers that lock it together. A story that explains everything and can't be corrected has the shape of the pen, and the Greek even says of the serpent's order that there is no outside. The only defense is the one this essay uses. Mark the arguments as proposals. Say how the text was made. Hand over everything that can be checked, invite people to prove it wrong, and let the witness be wrong.
+
+## Sources
+
+Ancient: the Bible (King James Version), the Code of Hammurabi, the Rig Veda, Homer, Plato's *Republic*, Aristotle's *Politics*, the Gospel of Thomas, *Pirkei Avot*. Kohler et al., *Nature* (2017), on inequality and livestock. Bollongino et al., *Molecular Biology and Evolution* (2012), on the first cattle herd. Moshe Weinfeld, *Deuteronomy and the Deuteronomic School* (1972), on the Assyrian oath. Finkelstein and Silberman, *The Bible Unearthed* (2001). Michael Hudson, *...and forgive them their debts* (2018). Walter Scheidel, *The Great Leveler* (2017). Nietzsche, *On the Genealogy of Morals* (1887). Max Weber, *The Protestant Ethic* (1905). Edward Bernays, *Propaganda* (1928). Smedley Butler, *War Is a Racket* (1935). Albert Pike, *Morals and Dogma* (1871). Étienne de La Boétie, *Discourse on Voluntary Servitude*. Dostoevsky, *The Brothers Karamazov*. Frederick Douglass, *My Bondage and My Freedom*. Calvert Watkins, *How to Kill a Dragon* (1995), and Bruce Lincoln on the myth of the Third. The *Martyrdom of Polycarp*. The Book of Jubilees.
+
+Online: on the covenant word, michaelcarasik.substack.com/p/an-offer-noah-cant-refuse-gen-618 · on northern refugees, approachingjerusalem.substack.com/p/did-a-mass-of-israelite-refugees · on Pike, readex.com/blog/albert-pike-confederate-commissioner-masonic-demiurge-apologist-slavery-apostate-union · Epstein files, pbs.org/video/epstein-files-1769810252 · wealth share, thetrading.tools/chart-of-the-day/2026-09-20-top-1-percent-wealth-share-record · ICJ opinion, un.org/unispal/document/position-paper-commissionof-inquiry-18oct24 · Amalek remarks, en.idi.org.il/articles/52324 · Gaza toll, bostonglobe.com/2026/09/27/world/palestinian-death-toll-in-gaza-war-rises-above-74000-since-the-war-began
+
+## Epilogue: The Happy Slave
 
 Suppose the pen is comfortable. You're fed better than any king of Babylon, entertained nonstop, cured of diseases that killed all your ancestors. Nobody whips you. All they ask is that you never ask who holds the rope. Is that a life?
 
@@ -226,8 +296,4 @@ By Roman tradition, when a general rode through the city in triumph, a voice beh
 
 Rebellion to tyrants is obedience to God. They wrote it on the first draft of this country's seal.
 
-## Sources
-
-Ancient: the Bible (King James Version), the Code of Hammurabi, the Rig Veda, Homer, Plato's *Republic*, Aristotle's *Politics*, the Gospel of Thomas, *Pirkei Avot*. Kohler et al., *Nature* (2017), on inequality and livestock. Bollongino et al., *Molecular Biology and Evolution* (2012), on the first cattle herd. Moshe Weinfeld, *Deuteronomy and the Deuteronomic School* (1972), on the Assyrian oath. Finkelstein and Silberman, *The Bible Unearthed* (2001). Michael Hudson, *...and forgive them their debts* (2018). Walter Scheidel, *The Great Leveler* (2017). Nietzsche, *On the Genealogy of Morals* (1887). Max Weber, *The Protestant Ethic* (1905). Edward Bernays, *Propaganda* (1928). Smedley Butler, *War Is a Racket* (1935). Albert Pike, *Morals and Dogma* (1871). Étienne de La Boétie, *Discourse on Voluntary Servitude*. Dostoevsky, *The Brothers Karamazov*. Frederick Douglass, *My Bondage and My Freedom*.
-
-Online: on the covenant word, michaelcarasik.substack.com/p/an-offer-noah-cant-refuse-gen-618 · on northern refugees, approachingjerusalem.substack.com/p/did-a-mass-of-israelite-refugees · on Pike, readex.com/blog/albert-pike-confederate-commissioner-masonic-demiurge-apologist-slavery-apostate-union · Epstein files, pbs.org/video/epstein-files-1769810252 · wealth share, thetrading.tools/chart-of-the-day/2026-09-20-top-1-percent-wealth-share-record · ICJ opinion, un.org/unispal/document/position-paper-commissionof-inquiry-18oct24 · Amalek remarks, en.idi.org.il/articles/52324 · Gaza toll, bostonglobe.com/2026/09/27/world/palestinian-death-toll-in-gaza-war-rises-above-74000-since-the-war-began
+Even so, amen.
