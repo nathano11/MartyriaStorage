@@ -1,8 +1,8 @@
-# Martyria
+# ΜΑΡΤΥΡΙΑ
 
 Static site hosting two texts:
 
-- `/martyria`: ΜΑΡΤΥΡΙΑ, the Greek text
+- `/`: ΜΑΡΤΥΡΙΑ, the Greek text
 - `/herding`: A Brief History of Herding
 
 Plain HTML, no build step. Deploy on Vercel with the framework preset set to "Other".

@@ -1,17 +1,25 @@
-:root{color-scheme:light dark}
+:root{color-scheme:light dark;--bg:#fff;--fg:#000}
+@media (prefers-color-scheme:dark){:root{--bg:#000;--fg:#fff}}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
-body{margin:0;padding:0 1.25rem;background:#fff;color:#000;font:1.1875rem/1.65 Cardo,Georgia,serif}
-@media (prefers-color-scheme:dark){body{background:#000;color:#fff}}
+body{margin:0;padding:0 1.25rem;background:var(--bg);color:var(--fg);font:1.1875rem/1.65 Cardo,Georgia,serif}
 a{color:inherit;text-decoration-thickness:1px;text-underline-offset:.2em}
 main{max-width:34rem;margin:0 auto;padding:12vh 0 8rem}
 h1,h2{font-weight:400}
 
-/* home */
-.home{max-width:none;padding-top:30vh;text-align:center}
-.home h1{font-size:clamp(2.5rem,11vw,7rem);line-height:1;letter-spacing:.15em;padding-left:.15em;margin:0 0 3rem}
-.home p{margin:0 0 3rem;letter-spacing:.06em;overflow-wrap:anywhere}
-.home ul{list-style:none;margin:0;padding:0;line-height:2}
+/* the other text, always in the top right corner */
+.other{position:fixed;top:0;right:0;z-index:1;padding:1rem 1.25rem;background:var(--bg);font-size:.9375rem;text-decoration:none}
+.other:hover{text-decoration:underline}
+.other[lang=el]{letter-spacing:.1em}
+
+/* one pillar either side of the column */
+@media (min-width:56rem){
+  body::before,body::after{content:"";position:fixed;top:50%;width:3.75rem;height:min(72vh,40rem);transform:translateY(-50%);
+    background:currentColor;opacity:.35;pointer-events:none;
+    -webkit-mask:url(/pillar.svg) center/contain no-repeat;mask:url(/pillar.svg) center/contain no-repeat}
+  body::before{left:calc(50% - 26rem)}
+  body::after{right:calc(50% - 26rem)}
+}
 
 /* martyria */
 .text h1{text-align:center;font-size:clamp(2.25rem,9vw,4rem);line-height:1;letter-spacing:.15em;padding-left:.15em;margin:0 0 6rem}
@@ -27,5 +35,3 @@ article h1+p{margin:0 0 5rem}
 article h2{font-size:1.375rem;line-height:1.3;margin:4rem 0 1rem}
 article p{margin:0 0 1.1em;hyphens:auto;overflow-wrap:break-word}
 article h2#sources~p{font-size:.9375rem;overflow-wrap:anywhere}
-
-.next{display:block;margin-top:6rem;text-align:center}
