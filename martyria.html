@@ -7,114 +7,21 @@
 <meta name="description" content="Martyria (ΜΑΡΤΥΡΙΑ), “testimony”: the full Greek text, written in continuous uncial capitals, on the covenant of the bull, the serpent, the wheel and the year of release.">
 <meta name="robots" content="index, follow, max-snippet:-1">
 <link rel="canonical" href="https://martyriastorage.vercel.app/martyria">
-<meta name="theme-color" content="#2E1A33">
 <meta property="og:site_name" content="Martyria">
 <meta property="og:title" content="ΜΑΡΤΥΡΙΑ (Martyria): the Greek text">
 <meta property="og:description" content="Martyria (ΜΑΡΤΥΡΙΑ), “testimony”: the full Greek text, written in continuous uncial capitals, on the covenant of the bull, the serpent, the wheel and the year of release.">
 <meta property="og:url" content="https://martyriastorage.vercel.app/martyria">
 <meta property="og:type" content="article">
 <meta name="twitter:card" content="summary">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%232E1A33'/%3E%3Ctext x='32' y='46' font-family='Georgia,serif' font-size='40' text-anchor='middle' fill='%23D4B26A'%3EΜ%3C/text%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-<style>
-:root{
-  --vellum:#2E1A33; --vellum-deep:#22132A; --gold:#D4B26A; --silver:#CBC4D1;
-  --paper:#F2F0F4; --ink:#1F1824; --murex:#6B2E5E; --muted:#5E5566; --rule:#D9D3DE;
-  --display:"Cardo","Gentium Book Plus",Georgia,serif;
-  --text:"Gentium Book Plus","Cardo",Georgia,serif;
-}
-@media (prefers-color-scheme:dark){
-  :root{--paper:#1A1220; --ink:#E6E0EA; --murex:#D4B26A; --muted:#A79DB0; --rule:#3A2C42;}
-}
-*{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%}
-body{margin:0;font-family:var(--text);font-size:1.125rem;line-height:1.7;color:var(--ink);background:var(--paper)}
-a{color:var(--murex);text-decoration-thickness:1px;text-underline-offset:.18em}
-a:focus-visible{outline:2px solid var(--gold);outline-offset:3px;border-radius:2px}
-.skip{position:absolute;left:-999px}.skip:focus{left:1rem;top:1rem;background:var(--gold);color:var(--vellum);padding:.4rem .8rem;z-index:9}
-
-/* top bar */
-.bar{display:flex;gap:1.5rem;align-items:baseline;flex-wrap:wrap;max-width:68rem;margin:0 auto;padding:1.25rem 1.5rem}
-.bar .mark{font-family:var(--display);font-size:1.25rem;letter-spacing:.12em;text-decoration:none;color:inherit;margin-right:auto}
-.bar a:not(.mark){font-size:1rem;color:inherit;opacity:.8;text-decoration:none}
-.bar a:not(.mark):hover,.bar a[aria-current]{opacity:1;text-decoration:underline}
-
-/* ---------- codex (home + martyria) ---------- */
-.codex{background:var(--vellum);color:var(--silver);min-height:100vh}
-.codex .bar{color:var(--silver)}
-.codex .bar .mark{color:var(--gold)}
-.home .bar .mark{visibility:hidden}
-.bar .mark{color:var(--murex)}
-.codex a{color:var(--gold)}
-
-.hero{max-width:68rem;margin:0 auto;padding:8vh 1.5rem 4rem}
-.hero h1{font-family:var(--display);font-weight:400;color:var(--gold);
-  font-size:clamp(3.2rem,13vw,10rem);line-height:.95;letter-spacing:.08em;margin:0 0 2.5rem}
-.hero .incipit{font-family:var(--display);font-size:clamp(1rem,2.4vw,1.35rem);letter-spacing:.06em;
-  max-width:38rem;overflow-wrap:anywhere;word-break:break-all;margin:0 0 .5rem}
-.hero .gloss{font-style:italic;max-width:38rem;opacity:.75;margin:0}
-
-.works{max-width:68rem;margin:0 auto;padding:0 1.5rem 6rem;display:grid;gap:3rem;grid-template-columns:repeat(auto-fit,minmax(18rem,1fr))}
-.work{border-top:1px solid rgba(212,178,106,.4);padding-top:1.25rem}
-.work h2{font-family:var(--display);font-weight:400;font-size:clamp(1.6rem,3.4vw,2.2rem);line-height:1.15;margin:0 0 .6rem}
-.work h2 a{text-decoration:none}
-.work h2 a:hover{text-decoration:underline}
-.work p{margin:0;max-width:30rem}
-
-.text{max-width:36rem;margin:0 auto;padding:4rem 1.5rem 6rem}
-.text h1{font-family:var(--display);font-weight:400;color:var(--gold);text-align:center;
-  font-size:clamp(2.6rem,9vw,4.5rem);letter-spacing:.12em;margin:0 0 .5rem}
-.text .sub{text-align:center;font-style:italic;opacity:.75;margin:0 0 3.5rem}
-.greek{font-family:var(--display);font-size:clamp(1.05rem,2.6vw,1.3rem);line-height:1.85;letter-spacing:.07em;
-  text-align:justify;text-align-last:center;overflow-wrap:anywhere;word-break:break-all;hyphens:none;margin:0 0 1.4em}
-.greek.first{text-align-last:left}
-.greek.first::first-letter{color:var(--gold);font-size:3.1em;float:left;line-height:.85;margin:.06em .12em 0 0}
-.divider{text-align:center;color:var(--gold);font-size:1.6rem;margin:2.2rem 0;line-height:1}
-.colophon{margin-top:3.5rem;text-align:center}
-.colophon .title{font-family:var(--display);color:var(--gold);letter-spacing:.14em;font-size:1.4rem;margin:0}
-.colophon .count{font-family:var(--display);letter-spacing:.1em;margin:.3rem 0 2rem}
-.colophon .greek{text-align:center;text-align-last:center;font-size:1.05rem;opacity:.9}
-
-/* ---------- essay ---------- */
-.essay-wrap{max-width:68rem;margin:0 auto;padding:2rem 1.5rem 6rem;display:grid;gap:3rem}
-@media (min-width:1080px){.essay-wrap{grid-template-columns:14rem minmax(0,38rem)}}
-.toc{font-size:.95rem;line-height:1.45}
-.toc h2{font-family:var(--display);font-weight:700;font-size:1rem;margin:0 0 .75rem}
-.toc ol{list-style:none;margin:0;padding:0;display:grid;gap:.45rem}
-.toc a{color:var(--muted);text-decoration:none}
-.toc a:hover{color:var(--murex);text-decoration:underline}
-@media (min-width:1080px){.toc summary{list-style:none;pointer-events:none;font-family:var(--display);font-weight:700;margin-bottom:.75rem}.toc summary::-webkit-details-marker{display:none}.toc{position:sticky;top:1.5rem;align-self:start;max-height:calc(100vh - 3rem);overflow:auto}}
-@media (max-width:1079px){.toc{border:1px solid var(--rule);padding:1rem 1.25rem;border-radius:4px}
-  .toc details summary{cursor:pointer;font-family:var(--display);font-weight:700}
-  .toc details[open] summary{margin-bottom:.75rem}}
-article{min-width:0}
-article h1{font-family:var(--display);font-weight:400;font-size:clamp(2.4rem,7vw,3.6rem);line-height:1.08;margin:0 0 1rem;color:var(--ink)}
-article h1+p{font-size:1.25rem;line-height:1.55;color:var(--muted);margin:0 0 3rem}
-article h2{font-family:var(--display);font-weight:700;font-size:1.55rem;line-height:1.25;margin:3.2rem 0 1rem;scroll-margin-top:1.5rem}
-article p{margin:0 0 1.15em;hyphens:auto;overflow-wrap:break-word}
-article strong{color:var(--ink)}
-article h2#sources ~ p{font-size:.95rem;color:var(--muted);overflow-wrap:anywhere}
-.back{display:inline-block;margin-top:3rem;font-size:1rem}
-
-footer{max-width:68rem;margin:0 auto;padding:2rem 1.5rem 3rem;font-size:.9rem;opacity:.65}
-@media (prefers-reduced-motion:no-preference){
-  .hero h1{animation:rise 1.2s ease-out both}
-  @keyframes rise{from{opacity:0;letter-spacing:.3em}to{opacity:1;letter-spacing:.08em}}
-}
-@media print{.bar,.toc,footer{display:none}.codex{background:#fff;color:#000}.codex a,.text h1,.divider{color:#000}}
-</style>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23000'/%3E%3Ctext x='32' y='46' font-family='Georgia,serif' font-size='40' text-anchor='middle' fill='%23fff'%3EΜ%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Cardo&text=%E2%B8%8E%E2%B8%8F&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "CreativeWork", "name": "ΜΑΡΤΥΡΙΑ (Martyria)", "alternateName": ["Martyria", "Testimony"], "description": "Martyria (ΜΑΡΤΥΡΙΑ), “testimony”: the full Greek text, written in continuous uncial capitals, on the covenant of the bull, the serpent, the wheel and the year of release.", "url": "https://martyriastorage.vercel.app/martyria", "inLanguage": "grc", "dateModified": "2026-10-26", "genre": "Poetry"}</script>
 </head>
-<body class="codex">
-<a class="skip" href="#main">Skip to text</a>
-<nav class="bar" aria-label="Site">
-<a class="mark" href="/" lang="el">ΜΑΡΤΥΡΙΑ</a>
-<a href="/martyria" aria-current="page">Martyria</a>
-<a href="/herding">Herding</a>
-</nav>
-<main id="main">
-<div class="text"><h1 lang="el">ΜΑΡΤΥΡΙΑ</h1><p class="sub" lang="en">Martyria, “testimony.” Greek, written in continuous uncials.</p><div lang="el"><p class="greek first">ΟΣΑΕΙΔΟΝΕΝΟΡΑΜΑΤΙΕΜΑΡΤΥΡΗΣΑΚΑΙΟΣΑΗΚΟΥΣΑΓΡΑΦΩΥΜΙΝ</p><p class="greek">ΟΥΚΗΝΒΑΣΙΛΕΥΣΕΝΤΗΓΗΚΑΙΑΝΘΡΩΠΟΣΚΑΙΤΑΥΡΟΣΕΝΤΩΟΡΕΙΤΟΥΤΑΥΡΟΥΔΙΕΘΕΝΤΟΔΙΑΘΗΚΗΝΚΑΙΜΑΡΤΥΣΗΝΜΕΙΘΡΑΣΔΙΟΥΟΜΝΥΟΥΣΙΝΟΙΠΕΡΣΑΙ</p><p class="greek">ΚΑΙΕΔΩΚΕΝΟΑΝΘΡΩΠΟΣΥΔΩΡΚΑΙΧΟΡΤΟΝΚΑΙΟΤΑΥΡΟΣΓΑΛΑΚΑΙΙΣΧΥΝΚΑΙΟΘΕΟΣΕΛΑΒΕΝΤΑΠΡΩΤΟΤΟΚΑΚΑΙΤΟΣΤΕΑΡ</p><p class="greek">ΚΑΙΕΚΑΛΕΣΑΝΤΗΝΔΙΑΘΗΚΗΝΔΕΣΜΟΝΟΤΙΔΕΣΜΟΣΗΝΚΑΙΔΙΗΛΘΕΝΗΑΓΕΛΗΥΠΟΤΗΝΡΑΒΔΟΝΚΑΙΗΡΙΘΜΗΣΕΝΑΥΤΗΝΟΠΟΙΜΗΝ</p><p class="greek">ΚΑΙΟΠΛΟΥΤΟΣΕΓΕΝΝΗΘΗΕΝΤΗΑΓΕΛΗΚΑΙΗΠΕΝΙΑΣΥΝΑΥΤΩΚΑΙΕΤΙΜΗΘΗΑΝΘΡΩΠΟΣΒΟΥΣΙΝ</p><p class="greek">ΚΑΙΑΠΟΒΟΡΡΑΗΛΘΟΝΟΙΕΦΑΡΜΑΤΩΝΥΙΟΙΤΟΥΠΑΤΡΟΣΤΟΥΟΥΡΑΝΟΥΚΑΙΕΙΠΑΝΗΜΙΝΔΕΔΟΤΑΙΗΓΗ</p><p class="greek">ΚΑΙΗΝΚΑΛΟΝΛΙΑΝΚΑΙΗΝΔΕΣΜΟΣΚΑΙΑΛΥΣΙΣ</p><div class="divider" aria-hidden="true">⸏</div><p class="greek">ΤΟΤΕΕΞΗΛΘΕΝΟΦΙΣΕΚΤΗΣΑΠΟΘΗΚΗΣΟΠΟΥΟΣΙΤΟΣΕΚΛΕΙΣΘΗΚΑΙΗΘΥΡΑΕΚΛΕΙΣΘΗ</p><p class="greek">ΟΔΡΑΚΩΝΟΑΡΧΑΙΟΣΕΠΤΑΚΕΦΑΛΑΙΑΥΤΩΚΑΙΔΕΚΑΚΕΡΑΤΑΚΑΙΕΠΙΤΩΝΚΕΡΑΤΩΝΟΝΟΜΑΤΑ</p><p class="greek">ΦΡΑΓΜΟΣΚΑΙΒΙΒΛΙΟΝΧΡΕΩΝΚΑΙΣΤΙΓΜΑΚΑΙΜΥΘΟΣΚΑΙΑΙΣΧΥΝΗΚΑΙΣΧΙΣΜΑΚΑΙΡΟΜΦΑΙΑΚΑΙΟΦΘΑΛΜΟΣΚΑΙΝΟΜΗΚΑΙΚΛΙΜΑΞΤΑΥΤΑΤΑΔΕΚΑΚΕΡΑΤΑ</p><p class="greek">ΚΑΙΕΙΔΟΝΚΑΙΙΔΟΥΕΙΛΚΥΣΕΝΟΟΦΙΣΤΗΝΑΓΕΛΗΝΕΙΣΤΟΣΠΗΛΑΙΟΝΚΑΙΟΥΚΕΤΙΗΣΑΝΒΟΕΣΑΛΛΑΑΝΘΡΩΠΟΙΚΑΙΕΛΑΒΟΝΟΙΒΑΣΙΛΕΙΣΤΗΝΡΑΒΔΟΝΚΑΙΕΚΑΛΕΣΑΝΕΑΥΤΟΥΣΠΟΙΜΕΝΑΣΛΑΩΝ</p><p class="greek">ΚΑΙΕΝΒΟΡΡΑΗΝΟΤΑΥΡΟΣΘΕΟΣΤΩΝΑΔΕΛΦΩΝΕΝΒΑΙΘΗΛΚΑΙΕΝΔΑΝΚΑΙΗΛΘΕΝΟΑΔΕΛΦΟΣΟΑΠΟΝΟΤΟΥΟΚΑΜΨΑΣΤΩΑΣΣΟΥΡΕΝΠΥΡΙΚΑΙΕΝΕΠΡΗΣΕΝΤΟΘΥΣΙΑΣΤΗΡΙΟΝΚΑΙΗΛΕΣΕΝΤΟΝΜΟΣΧΟΝΕΙΣΧΝΟΥΝΚΑΙΕΠΟΤΙΣΕΝΑΥΤΟΥΣΚΑΙΕΘΥΣΕΝΤΟΥΣΙΕΡΕΙΣΕΠΙΤΩΝΘΥΣΙΑΣΤΗΡΙΩΝΑΥΤΩΝΚΑΙΔΙΕΛΥΘΗΗΔΙΑΘΗΚΗΤΟΥΤΑΥΡΟΥ</p><p class="greek">ΚΑΙΟΑΔΕΛΦΟΣΟΚΑΜΨΑΣΕΓΡΑΨΕΝΤΟΒΙΒΛΙΟΝΤΟΥΑΔΕΛΦΟΥΤΟΥΠΕΣΟΝΤΟΣΚΑΙΤΟΝΜΟΣΧΟΝΑΥΤΟΥΕΚΑΛΕΣΕΝΑΜΑΡΤΙΑΝΚΑΙΕΑΥΤΟΝΕΓΡΑΨΕΝΛΑΟΝΕΚΛΕΚΤΟΝΥΠΕΡΠΑΝΤΑΤΑΕΘΝΗΚΑΙΟΠΟΥΕΓΕΓΡΑΠΤΟΑΡΧΕΤΩΣΑΝΤΩΝΘΗΡΙΩΝΤΗΣΓΗΣΑΝΕΓΝΩΣΑΝΑΡΧΕΤΩΣΑΝΤΩΝΥΙΩΝΤΩΝΑΝΘΡΩΠΩΝ</p><p class="greek">ΚΑΙΤΟΣΤΕΑΡΕΦΑΓΟΝΚΑΙΤΑΕΡΙΑΕΝΕΔΥΣΑΝΤΟΚΑΙΕΔΩΚΑΝΤΟΙΣΠΡΟΒΑΤΟΙΣΑΙΣΧΥΝΗΝΑΝΤΙΑΡΤΟΥ</p><div class="divider" aria-hidden="true">⸏</div><p class="greek">ΡΕΙΟΑΙΩΝΩΣΤΡΟΧΟΣΑΡΜΑΤΟΣΚΑΙΟΤΡΟΧΟΣΟΥΔΕΠΟΤΕΙΣΤΑΤΑΙ</p><p class="greek">ΟΙΟΛΙΓΟΙΣΥΝΑΓΟΝΤΑΙΚΑΙΟΠΛΟΥΤΟΣΠΛΗΘΥΝΕΤΑΙΚΑΙΗΘΥΡΑΚΛΕΙΕΤΑΙΟΙΠΟΛΛΟΙΚΡΑΖΟΥΣΙΝΠΡΟΣΕΝΑΟΤΙΟΕΙΣΟΥΚΕΣΤΙΝΕΚΤΩΝΟΛΙΓΩΝ</p><p class="greek">ΚΑΙΟΕΙΣΣΥΝΤΡΙΒΕΙΤΟΥΣΟΛΙΓΟΥΣΚΑΙΗΑΥΛΗΑΥΤΟΥΓΙΝΕΤΑΙΟΙΟΛΙΓΟΙΚΑΙΕΝΑΙΜΑΤΙΣΤΡΕΦΕΤΑΙΟΤΡΟΧΟΣ</p><p class="greek">ΚΑΙΕΙΔΟΝΤΟΝΕΜΠΟΡΟΝΤΟΝΕΣΧΑΤΟΝΓΕΝΟΜΕΝΟΝΠΡΩΤΟΝΚΑΙΤΟΝΙΕΡΕΑΠΩΛΟΥΜΕΝΟΝΑΡΓΥΡΙΟΥΚΑΙΤΟΝΒΑΣΙΛΕΑΩΝΟΥΜΕΝΟΝ</p><p class="greek">ΚΑΙΗΛΛΑΞΕΝΟΟΦΙΣΤΟΔΕΡΜΑΑΥΤΟΥΕΠΤΑΚΙΣΕΝΒΑΒΕΛΚΑΙΕΝΑΙΓΥΠΤΩΕΝΒΑΒΥΛΩΝΙΚΑΙΕΝΡΩΜΗ</p><p class="greek">ΕΝΤΗΣΦΡΑΓΙΔΙΤΟΥΑΡΧΙΕΡΕΩΣΚΑΙΕΝΤΩΘΡΟΝΩΤΟΥΕΜΠΟΡΟΥ</p><p class="greek">ΚΑΙΕΝΤΩΠΥΡΓΩΤΩΥΑΛΙΝΩΟΣΟΡΑΤΑΠΑΝΤΑΚΑΙΟΥΚΑΘΕΥΔΕΙΟΥΔΕΝΥΣΤΑΖΕΙ</p><div class="divider" aria-hidden="true">⸏</div><p class="greek">ΙΔΟΥΟΤΡΙΤΟΣΟΝΤΡΙΤΑΝΥΜΝΟΥΣΙΝΟΙΙΝΔΟΙΚΑΙΘΡΑΗΤΑΟΝΑΟΙΛΟΓΟΙΖΩΡΟΑΣΤΡΟΥΚΑΙΑΡΤΑΓΝΗΝΟΙΠΕΡΣΑΙΚΑΙΗΡΑΚΛΕΑΟΙΕΛΛΗΝΕΣ</p><p class="greek">ΟΣΕΠΙΕΝΤΟΠΟΤΟΝΤΟΑΓΙΟΝΚΑΙΚΑΤΕΒΗΕΙΣΤΟΣΠΗΛΑΙΟΝΚΑΙΕΠΑΤΑΞΕΝΤΟΝΟΦΙΝΤΟΝΤΡΙΚΕΦΑΛΟΝΩΣΒΗΛΟΣΕΣΧΙΣΕΝΤΗΝΘΑΛΑΤΘΚΑΙΜΙΧΑΗΛΕΠΟΛΕΜΗΣΕΝΤΩΔΡΑΚΟΝΤΙ</p><p class="greek">ΚΑΙΗΛΑΣΕΝΤΑΣΒΟΑΣΕΚΤΗΣΠΕΤΡΑΣΚΑΙΟΥΚΕΚΡΑΤΗΣΕΝΑΥΤΑΣΕΑΥΤΩ</p><p class="greek">ΚΑΙΗΜΑΧΑΙΡΑΑΥΤΟΥΕΚΠΟΡΕΥΕΤΑΙΕΚΤΟΥΣΤΟΜΑΤΟΣΑΥΤΟΥΚΑΙΚΕΚΛΗΤΑΙΤΟΟΝΟΜΑΑΥΤΟΥΟΛΟΓΟΣΤΟΥΘΕΟΥ</p><p class="greek">ΚΑΙΕΔΕΙΞΕΝΑΥΤΩΟΟΦΙΣΠΑΣΑΣΤΑΣΒΑΣΙΛΕΙΑΣΤΟΥΚΟΣΜΟΥΚΑΙΕΙΠΕΝΣΟΙΔΩΣΩΤΗΝΕΞΟΥΣΙΑΝΤΑΥΤΗΝΚΑΙΟΥΚΕΛΑΒΕΝΤΟΣΧΟΙΝΙΟΝΑΛΛΑΕΝΙΨΕΝΤΟΥΣΠΟΔΑΣΤΩΝΑΔΕΛΦΩΝΑΥΤΟΥΟΤΙΟΠΟΙΜΗΝΟΚΑΛΟΣΤΗΝΨΥΧΗΝΑΥΤΟΥΤΙΘΗΣΙΝΥΠΕΡΤΩΝΠΡΟΒΑΤΩΝ</p><p class="greek">ΚΑΙΜΕΤΑΥΤΟΝΗΛΘΕΝΦΑΡΙΣΑΙΟΣΕΚΦΥΛΗΣΒΕΝΙΑΜΙΝΟΣΟΥΚΕΓΝΩΑΥΤΟΝΚΑΤΑΣΑΡΚΑΚΑΙΕΛΑΒΕΝΤΟΥΣΛΟΓΟΥΣΑΥΤΟΥΚΑΙΕΓΡΑΨΕΝΑΝΤΑΥΤΩΝΠΑΣΑΨΥΧΗΕΞΟΥΣΙΑΙΣΥΠΕΡΕΧΟΥΣΑΙΣΥΠΟΤΑΣΣΕΣΘΩΚΑΙΟΙΔΟΥΛΟΙΥΠΑΚΟΥΕΤΕΤΟΙΣΚΥΡΙΟΙΣΚΑΙΑΠΕΔΩΚΕΝΤΟΣΧΟΙΝΙΟΝΤΩΚΑΙΣΑΡΙ</p><p class="greek">ΚΑΙΗΡΩΤΗΣΑΑΥΤΟΝΠΟΥΜΕΝΕΙΣΚΑΙΕΙΠΕΝΜΟΙΟΠΟΥΔΥΟΣΥΝΑΓΟΝΤΑΙΕΝΑΛΗΘΕΙΑΚΑΙΑΓΑΠΗΕΚΕΙΕΓΩΕΙΜΙΟΤΡΙΤΟΣΑΝΑΜΕΣΟΝΑΥΤΩΝΚΑΙΟΥΚΕΝΤΩΝΑΩ</p><div class="divider" aria-hidden="true">⸏</div><p class="greek">ΤΟΤΕΕΝΤΗΕΣΧΑΤΗΣΤΡΟΦΗΤΟΥΜΕΓΑΛΟΥΤΡΟΧΟΥΕΚΑΛΥΨΕΝΤΟΔΕΡΜΑΤΟΥΟΦΕΩΣΠΑΣΑΝΤΗΝΓΗΝΚΑΙΟΥΚΗΝΕΞΩΚΑΙΦΩΝΑΙΔΙΗΛΘΟΝΕΩΣΤΩΝΠΕΡΑΤΩΝΩΣΑΣΤΡΑΠΗΚΑΙΤΟΠΥΡΤΟΥΗΛΙΟΥΕΔΟΘΗΕΙΣΧΕΙΡΑΣΑΝΘΡΩΠΩΝ</p><p class="greek">ΚΑΙΕΓΕΝΕΤΟΠΑΣΑΗΓΗΑΠΟΘΗΚΗΜΙΑΚΑΙΑΓΕΛΗΜΙΑΚΑΙΤΟΑΡΓΥΡΙΟΝΕΓΕΝΕΤΟΑΡΙΘΜΟΣΚΑΙΟΑΡΙΘΜΟΣΕΓΕΝΕΤΟΑΥΤΟΙΣΘΕΟΣΚΑΙΠΡΟΣΕΚΥΝΗΣΑΝΤΩΑΡΙΘΜΩ</p><p class="greek">ΚΑΙΕΙΠΕΝΟΛΑΟΣΠΛΟΥΣΙΟΙΕΣΜΕΝΚΑΙΟΥΔΕΝΟΣΧΡΕΙΑΝΕΧΟΜΕΝΚΑΙΟΥΚΗΔΕΙΣΑΝΟΤΙΤΑΛΑΙΠΩΡΟΙΚΑΙΠΤΩΧΟΙΚΑΙΤΥΦΛΟΙΚΑΙΓΥΜΝΟΙΕΙΣΙΝΚΑΙΠΡΟΣΕΚΥΝΟΥΝΤΑΕΡΓΑΤΩΝΧΕΙΡΩΝΑΥΤΩΝΚΑΙΤΟΙΣΧΕΙΛΕΣΙΝΕΤΙΜΩΝΤΗΝΑΛΗΘΕΙΑΝΗΔΕΚΑΡΔΙΑΑΥΤΩΝΠΟΡΡΩΑΠΕΙΧΕΝΚΑΙΟΥΚΕΨΗΦΙΣΑΝΤΗΝΔΑΠΑΝΗΝ</p><p class="greek">ΚΑΙΙΔΟΥΟΦΘΑΛΜΟΣΜΗΚΑΘΕΥΔΩΝΚΑΙΤΑΕΡΓΑΠΑΝΤΩΝΑΝΘΡΩΠΩΝΓΕΓΡΑΠΤΑΙΕΝΦΩΤΙΚΑΙΟΥΚΕΞΑΛΕΙΦΕΤΑΙ</p><p class="greek">ΚΑΙΙΔΟΥΗΓΗΗΛΙΟΥΔΥΝΟΝΤΟΣΗΜΕΓΑΛΗΘΥΓΑΤΗΡΤΗΣΕΞΟΔΟΥΗΕΓΡΑΨΕΝΕΠΙΤΗΣΣΦΡΑΓΙΔΟΣΑΥΤΗΣΤΟΑΝΤΙΣΤΗΝΑΙΤΟΙΣΤΥΡΑΝΝΟΙΣΥΠΑΚΟΗΕΣΤΙΝΤΩΘΕΩ</p><p class="greek">ΚΑΙΕΓΕΝΕΤΟΒΑΒΥΛΩΝΗΜΕΓΑΛΗΗΜΗΤΗΡΤΩΝΠΟΡΝΩΝΚΑΙΤΩΝΒΔΕΛΥΓΜΑΤΩΝΤΗΣΓΗΣΚΑΙΕΚΑΛΥΨΕΝΤΑΟΝΟΜΑΤΑΤΩΝΙΔΙΩΝΚΑΙΕΓΥΜΝΩΣΕΝΤΑΟΝΟΜΑΤΑΤΩΝΑΡΝΙΩΝΑΛΛΟΥΔΕΝΚΕΚΑΛΥΜΜΕΝΟΝΟΟΥΚΑΠΟΚΑΛΥΦΘΗΣΕΤΑΙ</p><p class="greek">ΚΑΙΚΛΑΥΣΟΥΣΙΝΟΙΕΜΠΟΡΟΙΤΗΣΓΗΣΟΤΙΤΟΝΓΟΜΟΝΑΥΤΩΝΟΥΔΕΙΣΑΓΟΡΑΖΕΙΟΥΚΕΤΙΣΩΜΑΤΑΚΑΙΨΥΧΑΣΑΝΘΡΩΠΩΝΚΑΙΒΙΒΛΙΑΗΝΟΙΧΘΗΣΑΝΚΑΙΗΣΑΝΓΥΜΝΟΙΩΣΠΑΙΔΙΑΜΙΚΡΑΚΑΙΟΥΚΗΣΧΥΝΟΝΤΟ</p><div class="divider" aria-hidden="true">⸏</div><p class="greek">ΟΥΧΙΒΑΣΙΛΕΥΣΔΗΣΕΙΤΟΝΟΦΙΝΟΥΔΕΑΥΤΟΚΡΑΤΩΡΑΘΑΝΑΤΟΣΕΠΙΘΡΟΝΟΥΧΡΥΣΟΥΟΓΑΡΘΡΟΝΟΣΓΕΝΝΑΟΦΙΝ</p><p class="greek">ΚΑΙΤΟΥΤΟΕΣΤΙΝΤΟΕΣΧΑΤΟΝΕΑΝΣΤΡΑΦΗΟΤΡΟΧΟΣΕΝΑΙΜΑΤΙΚΑΥΘΗΣΕΤΑΙΠΑΣΑΗΓΗΟΤΙΟΥΚΕΣΤΙΝΕΞΩΚΑΙΤΟΠΥΡΕΝΤΑΙΣΧΕΡΣΙΝ</p><p class="greek">ΚΑΙΗΚΟΥΣΑΦΩΝΗΝΛΕΓΟΥΣΑΝΤΗΘΥΓΑΤΡΙΤΗΣΕΞΟΔΟΥΜΝΗΜΟΝΕΥΕΠΟΘΕΝΠΕΠΤΩΚΑΣΚΑΙΜΕΤΑΝΟΗΣΟΝΚΑΙΤΑΠΡΩΤΑΕΡΓΑΠΟΙΗΣΟΝΙΝΑΜΗΓΕΝΗΟΦΑΡΑΩΟΝΕΒΥΘΙΣΑΣ</p><p class="greek">ΑΛΛΟΤΑΝΕΙΠΩΣΙΝΟΙΠΟΛΛΟΙΟΥΔΟΥΛΕΥΣΟΜΕΝΠΙΠΤΕΙΟΤΥΡΑΝΝΟΣΩΣΑΝΔΡΙΑΣΑΝΕΥΒΑΣΕΩΣΚΑΙΟΙΦΥΛΑΚΕΣΤΙΘΕΑΣΙΝΤΑΟΠΛΑΑΥΤΩΝ</p><p class="greek">ΚΑΙΕΞΗΛΘΕΝΠΑΣΟΛΑΟΣΕΙΣΤΟΟΡΟΣΤΟΑΓΙΟΝΚΑΙΕΚΑΘΙΣΕΝΚΑΙΕΚΕΝΩΘΗΗΠΟΛΙΣ</p><p class="greek">ΚΑΙΟΤΡΙΤΟΣΑΠΕΔΩΚΕΝΤΗΝΕΞΟΥΣΙΑΝΚΑΙΑΝΕΧΩΡΗΣΕΝΕΙΣΤΟΝΑΓΡΟΝΑΥΤΟΥΚΑΙΟΥΚΕΒΑΣΙΛΕΥΣΕΝΟΤΙΕΜΝΗΣΘΗΟΤΙΑΝΘΡΩΠΟΣΕΣΤΙΝ</p><p class="greek">ΚΑΙΕΙΔΟΝΤΑΣΒΟΑΣΕΞΕΡΧΟΜΕΝΑΣΕΚΤΟΥΣΠΗΛΑΙΟΥΕΙΣΤΟΦΩΣΚΑΙΟΥΚΕΤΙΗΣΑΝΒΟΕΣΑΛΛΑΑΝΘΡΩΠΟΙ</p><div class="divider" aria-hidden="true">⸏</div><p class="greek">ΣΑΛΠΙΣΑΤΕΣΑΛΠΙΓΓΙΕΝΤΩΕΤΕΙΤΩΠΕΝΤΗΚΟΣΤΩ</p><p class="greek">ΚΑΙΑΦΕΘΗΣΕΤΑΙΠΑΝΧΡΕΟΣΚΑΙΑΠΕΛΕΥΣΕΤΑΙΕΙΣΕΚΑΣΤΟΣΕΙΣΤΗΝΚΤΗΣΙΝΑΥΤΟΥ</p><p class="greek">ΕΠΙΣΤΡΕΨΕΙΟΔΟΥΛΟΣΠΡΟΣΤΗΝΜΗΤΕΡΑΑΥΤΟΥΚΑΙΟΥΚΕΣΤΑΙΕΘΝΟΣΕΚΛΕΚΤΟΝΥΠΕΡΕΘΝΟΣΟΥΔΕΦΡΑΓΜΟΣΑΝΑΜΕΣΟΝΛΑΟΥΚΑΙΛΑΟΥ</p><p class="greek">ΚΑΙΑΝΑΠΑΥΣΕΤΑΙΕΚΑΣΤΟΣΥΠΟΚΑΤΩΑΜΠΕΛΟΥΑΥΤΟΥΚΑΙΥΠΟΚΑΤΩΣΥΚΗΣΑΥΤΟΥΚΑΙΟΥΚΕΣΤΑΙΟΕΚΦΟΒΩΝ</p><p class="greek">ΚΑΙΟΤΡΟΧΟΣΣΤΡΕΦΕΤΑΙΑΛΛΟΥΚΕΝΑΙΜΑΤΙΚΑΙΗΓΟΥΝΤΑΙΑΛΗΘΕΙΑΚΑΙΠΙΣΤΙΣ</p><p class="greek">ΟΥΚΕΠΙΣΟΙΤΟΕΡΓΟΝΣΥΝΤΕΛΕΣΑΙΟΥΔΕΕΛΕΥΘΕΡΟΣΕΙΑΠΟΣΤΗΝΑΙΑΠΑΥΤΟΥ</p><p class="greek">ΗΒΑΣΙΛΕΙΑΕΦΑΠΛΩΜΕΝΗΕΠΙΤΗΣΓΗΣΚΑΙΟΙΑΝΘΡΩΠΟΙΟΥΒΛΕΠΟΥΣΙΝΑΥΤΗΝ</p><div class="divider" aria-hidden="true">⸏</div><p class="greek">ΚΑΙΔΙΑΒΟΗΣΕΤΕΑΦΕΣΙΝΕΠΙΤΗΣΓΗΣΠΑΣΙΝΤΟΙΣΚΑΤΟΙΚΟΥΣΙΝΑΥΤΗΝ</p><div class="divider" aria-hidden="true">⸎</div><div class="colophon"><p class="title">ΜΑΡΤΥΡΙΑ</p><p class="count">ΣΤΙΧΟΙ Νʹ</p><p class="greek">ΚΑΓΩΝΑΘΑΝΟΑΠΟΤΟΥΟΡΟΥΣΤΩΝΕΛΑΙΩΝΤΟΥΕΝΜΙΣΣΟΥΡΙΟΑΚΟΥΩΝΚΑΙΒΛΕΠΩΝΤΑΥΤΑ</p></div></div></div>
+<body>
+<main class="text">
+<h1 lang="el">ΜΑΡΤΥΡΙΑ</h1><div lang="el"><p class="greek">ΟΣΑΕΙΔΟΝΕΝΟΡΑΜΑΤΙΕΜΑΡΤΥΡΗΣΑΚΑΙΟΣΑΗΚΟΥΣΑΓΡΑΦΩΥΜΙΝ</p><p class="greek">ΟΥΚΗΝΒΑΣΙΛΕΥΣΕΝΤΗΓΗΚΑΙΑΝΘΡΩΠΟΣΚΑΙΤΑΥΡΟΣΕΝΤΩΟΡΕΙΤΟΥΤΑΥΡΟΥΔΙΕΘΕΝΤΟΔΙΑΘΗΚΗΝΚΑΙΜΑΡΤΥΣΗΝΜΕΙΘΡΑΣΔΙΟΥΟΜΝΥΟΥΣΙΝΟΙΠΕΡΣΑΙ</p><p class="greek">ΚΑΙΕΔΩΚΕΝΟΑΝΘΡΩΠΟΣΥΔΩΡΚΑΙΧΟΡΤΟΝΚΑΙΟΤΑΥΡΟΣΓΑΛΑΚΑΙΙΣΧΥΝΚΑΙΟΘΕΟΣΕΛΑΒΕΝΤΑΠΡΩΤΟΤΟΚΑΚΑΙΤΟΣΤΕΑΡ</p><p class="greek">ΚΑΙΕΚΑΛΕΣΑΝΤΗΝΔΙΑΘΗΚΗΝΔΕΣΜΟΝΟΤΙΔΕΣΜΟΣΗΝΚΑΙΔΙΗΛΘΕΝΗΑΓΕΛΗΥΠΟΤΗΝΡΑΒΔΟΝΚΑΙΗΡΙΘΜΗΣΕΝΑΥΤΗΝΟΠΟΙΜΗΝ</p><p class="greek">ΚΑΙΟΠΛΟΥΤΟΣΕΓΕΝΝΗΘΗΕΝΤΗΑΓΕΛΗΚΑΙΗΠΕΝΙΑΣΥΝΑΥΤΩΚΑΙΕΤΙΜΗΘΗΑΝΘΡΩΠΟΣΒΟΥΣΙΝ</p><p class="greek">ΚΑΙΑΠΟΒΟΡΡΑΗΛΘΟΝΟΙΕΦΑΡΜΑΤΩΝΥΙΟΙΤΟΥΠΑΤΡΟΣΤΟΥΟΥΡΑΝΟΥΚΑΙΕΙΠΑΝΗΜΙΝΔΕΔΟΤΑΙΗΓΗ</p><p class="greek">ΚΑΙΗΝΚΑΛΟΝΛΙΑΝΚΑΙΗΝΔΕΣΜΟΣΚΑΙΑΛΥΣΙΣ</p><div class="divider" aria-hidden="true">⸏</div><p class="greek">ΤΟΤΕΕΞΗΛΘΕΝΟΦΙΣΕΚΤΗΣΑΠΟΘΗΚΗΣΟΠΟΥΟΣΙΤΟΣΕΚΛΕΙΣΘΗΚΑΙΗΘΥΡΑΕΚΛΕΙΣΘΗ</p><p class="greek">ΟΔΡΑΚΩΝΟΑΡΧΑΙΟΣΕΠΤΑΚΕΦΑΛΑΙΑΥΤΩΚΑΙΔΕΚΑΚΕΡΑΤΑΚΑΙΕΠΙΤΩΝΚΕΡΑΤΩΝΟΝΟΜΑΤΑ</p><p class="greek">ΦΡΑΓΜΟΣΚΑΙΒΙΒΛΙΟΝΧΡΕΩΝΚΑΙΣΤΙΓΜΑΚΑΙΜΥΘΟΣΚΑΙΑΙΣΧΥΝΗΚΑΙΣΧΙΣΜΑΚΑΙΡΟΜΦΑΙΑΚΑΙΟΦΘΑΛΜΟΣΚΑΙΝΟΜΗΚΑΙΚΛΙΜΑΞΤΑΥΤΑΤΑΔΕΚΑΚΕΡΑΤΑ</p><p class="greek">ΚΑΙΕΙΔΟΝΚΑΙΙΔΟΥΕΙΛΚΥΣΕΝΟΟΦΙΣΤΗΝΑΓΕΛΗΝΕΙΣΤΟΣΠΗΛΑΙΟΝΚΑΙΟΥΚΕΤΙΗΣΑΝΒΟΕΣΑΛΛΑΑΝΘΡΩΠΟΙΚΑΙΕΛΑΒΟΝΟΙΒΑΣΙΛΕΙΣΤΗΝΡΑΒΔΟΝΚΑΙΕΚΑΛΕΣΑΝΕΑΥΤΟΥΣΠΟΙΜΕΝΑΣΛΑΩΝ</p><p class="greek">ΚΑΙΕΝΒΟΡΡΑΗΝΟΤΑΥΡΟΣΘΕΟΣΤΩΝΑΔΕΛΦΩΝΕΝΒΑΙΘΗΛΚΑΙΕΝΔΑΝΚΑΙΗΛΘΕΝΟΑΔΕΛΦΟΣΟΑΠΟΝΟΤΟΥΟΚΑΜΨΑΣΤΩΑΣΣΟΥΡΕΝΠΥΡΙΚΑΙΕΝΕΠΡΗΣΕΝΤΟΘΥΣΙΑΣΤΗΡΙΟΝΚΑΙΗΛΕΣΕΝΤΟΝΜΟΣΧΟΝΕΙΣΧΝΟΥΝΚΑΙΕΠΟΤΙΣΕΝΑΥΤΟΥΣΚΑΙΕΘΥΣΕΝΤΟΥΣΙΕΡΕΙΣΕΠΙΤΩΝΘΥΣΙΑΣΤΗΡΙΩΝΑΥΤΩΝΚΑΙΔΙΕΛΥΘΗΗΔΙΑΘΗΚΗΤΟΥΤΑΥΡΟΥ</p><p class="greek">ΚΑΙΟΑΔΕΛΦΟΣΟΚΑΜΨΑΣΕΓΡΑΨΕΝΤΟΒΙΒΛΙΟΝΤΟΥΑΔΕΛΦΟΥΤΟΥΠΕΣΟΝΤΟΣΚΑΙΤΟΝΜΟΣΧΟΝΑΥΤΟΥΕΚΑΛΕΣΕΝΑΜΑΡΤΙΑΝΚΑΙΕΑΥΤΟΝΕΓΡΑΨΕΝΛΑΟΝΕΚΛΕΚΤΟΝΥΠΕΡΠΑΝΤΑΤΑΕΘΝΗΚΑΙΟΠΟΥΕΓΕΓΡΑΠΤΟΑΡΧΕΤΩΣΑΝΤΩΝΘΗΡΙΩΝΤΗΣΓΗΣΑΝΕΓΝΩΣΑΝΑΡΧΕΤΩΣΑΝΤΩΝΥΙΩΝΤΩΝΑΝΘΡΩΠΩΝ</p><p class="greek">ΚΑΙΤΟΣΤΕΑΡΕΦΑΓΟΝΚΑΙΤΑΕΡΙΑΕΝΕΔΥΣΑΝΤΟΚΑΙΕΔΩΚΑΝΤΟΙΣΠΡΟΒΑΤΟΙΣΑΙΣΧΥΝΗΝΑΝΤΙΑΡΤΟΥ</p><div class="divider" aria-hidden="true">⸏</div><p class="greek">ΡΕΙΟΑΙΩΝΩΣΤΡΟΧΟΣΑΡΜΑΤΟΣΚΑΙΟΤΡΟΧΟΣΟΥΔΕΠΟΤΕΙΣΤΑΤΑΙ</p><p class="greek">ΟΙΟΛΙΓΟΙΣΥΝΑΓΟΝΤΑΙΚΑΙΟΠΛΟΥΤΟΣΠΛΗΘΥΝΕΤΑΙΚΑΙΗΘΥΡΑΚΛΕΙΕΤΑΙΟΙΠΟΛΛΟΙΚΡΑΖΟΥΣΙΝΠΡΟΣΕΝΑΟΤΙΟΕΙΣΟΥΚΕΣΤΙΝΕΚΤΩΝΟΛΙΓΩΝ</p><p class="greek">ΚΑΙΟΕΙΣΣΥΝΤΡΙΒΕΙΤΟΥΣΟΛΙΓΟΥΣΚΑΙΗΑΥΛΗΑΥΤΟΥΓΙΝΕΤΑΙΟΙΟΛΙΓΟΙΚΑΙΕΝΑΙΜΑΤΙΣΤΡΕΦΕΤΑΙΟΤΡΟΧΟΣ</p><p class="greek">ΚΑΙΕΙΔΟΝΤΟΝΕΜΠΟΡΟΝΤΟΝΕΣΧΑΤΟΝΓΕΝΟΜΕΝΟΝΠΡΩΤΟΝΚΑΙΤΟΝΙΕΡΕΑΠΩΛΟΥΜΕΝΟΝΑΡΓΥΡΙΟΥΚΑΙΤΟΝΒΑΣΙΛΕΑΩΝΟΥΜΕΝΟΝ</p><p class="greek">ΚΑΙΗΛΛΑΞΕΝΟΟΦΙΣΤΟΔΕΡΜΑΑΥΤΟΥΕΠΤΑΚΙΣΕΝΒΑΒΕΛΚΑΙΕΝΑΙΓΥΠΤΩΕΝΒΑΒΥΛΩΝΙΚΑΙΕΝΡΩΜΗ</p><p class="greek">ΕΝΤΗΣΦΡΑΓΙΔΙΤΟΥΑΡΧΙΕΡΕΩΣΚΑΙΕΝΤΩΘΡΟΝΩΤΟΥΕΜΠΟΡΟΥ</p><p class="greek">ΚΑΙΕΝΤΩΠΥΡΓΩΤΩΥΑΛΙΝΩΟΣΟΡΑΤΑΠΑΝΤΑΚΑΙΟΥΚΑΘΕΥΔΕΙΟΥΔΕΝΥΣΤΑΖΕΙ</p><div class="divider" aria-hidden="true">⸏</div><p class="greek">ΙΔΟΥΟΤΡΙΤΟΣΟΝΤΡΙΤΑΝΥΜΝΟΥΣΙΝΟΙΙΝΔΟΙΚΑΙΘΡΑΗΤΑΟΝΑΟΙΛΟΓΟΙΖΩΡΟΑΣΤΡΟΥΚΑΙΑΡΤΑΓΝΗΝΟΙΠΕΡΣΑΙΚΑΙΗΡΑΚΛΕΑΟΙΕΛΛΗΝΕΣ</p><p class="greek">ΟΣΕΠΙΕΝΤΟΠΟΤΟΝΤΟΑΓΙΟΝΚΑΙΚΑΤΕΒΗΕΙΣΤΟΣΠΗΛΑΙΟΝΚΑΙΕΠΑΤΑΞΕΝΤΟΝΟΦΙΝΤΟΝΤΡΙΚΕΦΑΛΟΝΩΣΒΗΛΟΣΕΣΧΙΣΕΝΤΗΝΘΑΛΑΤΘΚΑΙΜΙΧΑΗΛΕΠΟΛΕΜΗΣΕΝΤΩΔΡΑΚΟΝΤΙ</p><p class="greek">ΚΑΙΗΛΑΣΕΝΤΑΣΒΟΑΣΕΚΤΗΣΠΕΤΡΑΣΚΑΙΟΥΚΕΚΡΑΤΗΣΕΝΑΥΤΑΣΕΑΥΤΩ</p><p class="greek">ΚΑΙΗΜΑΧΑΙΡΑΑΥΤΟΥΕΚΠΟΡΕΥΕΤΑΙΕΚΤΟΥΣΤΟΜΑΤΟΣΑΥΤΟΥΚΑΙΚΕΚΛΗΤΑΙΤΟΟΝΟΜΑΑΥΤΟΥΟΛΟΓΟΣΤΟΥΘΕΟΥ</p><p class="greek">ΚΑΙΕΔΕΙΞΕΝΑΥΤΩΟΟΦΙΣΠΑΣΑΣΤΑΣΒΑΣΙΛΕΙΑΣΤΟΥΚΟΣΜΟΥΚΑΙΕΙΠΕΝΣΟΙΔΩΣΩΤΗΝΕΞΟΥΣΙΑΝΤΑΥΤΗΝΚΑΙΟΥΚΕΛΑΒΕΝΤΟΣΧΟΙΝΙΟΝΑΛΛΑΕΝΙΨΕΝΤΟΥΣΠΟΔΑΣΤΩΝΑΔΕΛΦΩΝΑΥΤΟΥΟΤΙΟΠΟΙΜΗΝΟΚΑΛΟΣΤΗΝΨΥΧΗΝΑΥΤΟΥΤΙΘΗΣΙΝΥΠΕΡΤΩΝΠΡΟΒΑΤΩΝ</p><p class="greek">ΚΑΙΜΕΤΑΥΤΟΝΗΛΘΕΝΦΑΡΙΣΑΙΟΣΕΚΦΥΛΗΣΒΕΝΙΑΜΙΝΟΣΟΥΚΕΓΝΩΑΥΤΟΝΚΑΤΑΣΑΡΚΑΚΑΙΕΛΑΒΕΝΤΟΥΣΛΟΓΟΥΣΑΥΤΟΥΚΑΙΕΓΡΑΨΕΝΑΝΤΑΥΤΩΝΠΑΣΑΨΥΧΗΕΞΟΥΣΙΑΙΣΥΠΕΡΕΧΟΥΣΑΙΣΥΠΟΤΑΣΣΕΣΘΩΚΑΙΟΙΔΟΥΛΟΙΥΠΑΚΟΥΕΤΕΤΟΙΣΚΥΡΙΟΙΣΚΑΙΑΠΕΔΩΚΕΝΤΟΣΧΟΙΝΙΟΝΤΩΚΑΙΣΑΡΙ</p><p class="greek">ΚΑΙΗΡΩΤΗΣΑΑΥΤΟΝΠΟΥΜΕΝΕΙΣΚΑΙΕΙΠΕΝΜΟΙΟΠΟΥΔΥΟΣΥΝΑΓΟΝΤΑΙΕΝΑΛΗΘΕΙΑΚΑΙΑΓΑΠΗΕΚΕΙΕΓΩΕΙΜΙΟΤΡΙΤΟΣΑΝΑΜΕΣΟΝΑΥΤΩΝΚΑΙΟΥΚΕΝΤΩΝΑΩ</p><div class="divider" aria-hidden="true">⸏</div><p class="greek">ΤΟΤΕΕΝΤΗΕΣΧΑΤΗΣΤΡΟΦΗΤΟΥΜΕΓΑΛΟΥΤΡΟΧΟΥΕΚΑΛΥΨΕΝΤΟΔΕΡΜΑΤΟΥΟΦΕΩΣΠΑΣΑΝΤΗΝΓΗΝΚΑΙΟΥΚΗΝΕΞΩΚΑΙΦΩΝΑΙΔΙΗΛΘΟΝΕΩΣΤΩΝΠΕΡΑΤΩΝΩΣΑΣΤΡΑΠΗΚΑΙΤΟΠΥΡΤΟΥΗΛΙΟΥΕΔΟΘΗΕΙΣΧΕΙΡΑΣΑΝΘΡΩΠΩΝ</p><p class="greek">ΚΑΙΕΓΕΝΕΤΟΠΑΣΑΗΓΗΑΠΟΘΗΚΗΜΙΑΚΑΙΑΓΕΛΗΜΙΑΚΑΙΤΟΑΡΓΥΡΙΟΝΕΓΕΝΕΤΟΑΡΙΘΜΟΣΚΑΙΟΑΡΙΘΜΟΣΕΓΕΝΕΤΟΑΥΤΟΙΣΘΕΟΣΚΑΙΠΡΟΣΕΚΥΝΗΣΑΝΤΩΑΡΙΘΜΩ</p><p class="greek">ΚΑΙΕΙΠΕΝΟΛΑΟΣΠΛΟΥΣΙΟΙΕΣΜΕΝΚΑΙΟΥΔΕΝΟΣΧΡΕΙΑΝΕΧΟΜΕΝΚΑΙΟΥΚΗΔΕΙΣΑΝΟΤΙΤΑΛΑΙΠΩΡΟΙΚΑΙΠΤΩΧΟΙΚΑΙΤΥΦΛΟΙΚΑΙΓΥΜΝΟΙΕΙΣΙΝΚΑΙΠΡΟΣΕΚΥΝΟΥΝΤΑΕΡΓΑΤΩΝΧΕΙΡΩΝΑΥΤΩΝΚΑΙΤΟΙΣΧΕΙΛΕΣΙΝΕΤΙΜΩΝΤΗΝΑΛΗΘΕΙΑΝΗΔΕΚΑΡΔΙΑΑΥΤΩΝΠΟΡΡΩΑΠΕΙΧΕΝΚΑΙΟΥΚΕΨΗΦΙΣΑΝΤΗΝΔΑΠΑΝΗΝ</p><p class="greek">ΚΑΙΙΔΟΥΟΦΘΑΛΜΟΣΜΗΚΑΘΕΥΔΩΝΚΑΙΤΑΕΡΓΑΠΑΝΤΩΝΑΝΘΡΩΠΩΝΓΕΓΡΑΠΤΑΙΕΝΦΩΤΙΚΑΙΟΥΚΕΞΑΛΕΙΦΕΤΑΙ</p><p class="greek">ΚΑΙΙΔΟΥΗΓΗΗΛΙΟΥΔΥΝΟΝΤΟΣΗΜΕΓΑΛΗΘΥΓΑΤΗΡΤΗΣΕΞΟΔΟΥΗΕΓΡΑΨΕΝΕΠΙΤΗΣΣΦΡΑΓΙΔΟΣΑΥΤΗΣΤΟΑΝΤΙΣΤΗΝΑΙΤΟΙΣΤΥΡΑΝΝΟΙΣΥΠΑΚΟΗΕΣΤΙΝΤΩΘΕΩ</p><p class="greek">ΚΑΙΕΓΕΝΕΤΟΒΑΒΥΛΩΝΗΜΕΓΑΛΗΗΜΗΤΗΡΤΩΝΠΟΡΝΩΝΚΑΙΤΩΝΒΔΕΛΥΓΜΑΤΩΝΤΗΣΓΗΣΚΑΙΕΚΑΛΥΨΕΝΤΑΟΝΟΜΑΤΑΤΩΝΙΔΙΩΝΚΑΙΕΓΥΜΝΩΣΕΝΤΑΟΝΟΜΑΤΑΤΩΝΑΡΝΙΩΝΑΛΛΟΥΔΕΝΚΕΚΑΛΥΜΜΕΝΟΝΟΟΥΚΑΠΟΚΑΛΥΦΘΗΣΕΤΑΙ</p><p class="greek">ΚΑΙΚΛΑΥΣΟΥΣΙΝΟΙΕΜΠΟΡΟΙΤΗΣΓΗΣΟΤΙΤΟΝΓΟΜΟΝΑΥΤΩΝΟΥΔΕΙΣΑΓΟΡΑΖΕΙΟΥΚΕΤΙΣΩΜΑΤΑΚΑΙΨΥΧΑΣΑΝΘΡΩΠΩΝΚΑΙΒΙΒΛΙΑΗΝΟΙΧΘΗΣΑΝΚΑΙΗΣΑΝΓΥΜΝΟΙΩΣΠΑΙΔΙΑΜΙΚΡΑΚΑΙΟΥΚΗΣΧΥΝΟΝΤΟ</p><div class="divider" aria-hidden="true">⸏</div><p class="greek">ΟΥΧΙΒΑΣΙΛΕΥΣΔΗΣΕΙΤΟΝΟΦΙΝΟΥΔΕΑΥΤΟΚΡΑΤΩΡΑΘΑΝΑΤΟΣΕΠΙΘΡΟΝΟΥΧΡΥΣΟΥΟΓΑΡΘΡΟΝΟΣΓΕΝΝΑΟΦΙΝ</p><p class="greek">ΚΑΙΤΟΥΤΟΕΣΤΙΝΤΟΕΣΧΑΤΟΝΕΑΝΣΤΡΑΦΗΟΤΡΟΧΟΣΕΝΑΙΜΑΤΙΚΑΥΘΗΣΕΤΑΙΠΑΣΑΗΓΗΟΤΙΟΥΚΕΣΤΙΝΕΞΩΚΑΙΤΟΠΥΡΕΝΤΑΙΣΧΕΡΣΙΝ</p><p class="greek">ΚΑΙΗΚΟΥΣΑΦΩΝΗΝΛΕΓΟΥΣΑΝΤΗΘΥΓΑΤΡΙΤΗΣΕΞΟΔΟΥΜΝΗΜΟΝΕΥΕΠΟΘΕΝΠΕΠΤΩΚΑΣΚΑΙΜΕΤΑΝΟΗΣΟΝΚΑΙΤΑΠΡΩΤΑΕΡΓΑΠΟΙΗΣΟΝΙΝΑΜΗΓΕΝΗΟΦΑΡΑΩΟΝΕΒΥΘΙΣΑΣ</p><p class="greek">ΑΛΛΟΤΑΝΕΙΠΩΣΙΝΟΙΠΟΛΛΟΙΟΥΔΟΥΛΕΥΣΟΜΕΝΠΙΠΤΕΙΟΤΥΡΑΝΝΟΣΩΣΑΝΔΡΙΑΣΑΝΕΥΒΑΣΕΩΣΚΑΙΟΙΦΥΛΑΚΕΣΤΙΘΕΑΣΙΝΤΑΟΠΛΑΑΥΤΩΝ</p><p class="greek">ΚΑΙΕΞΗΛΘΕΝΠΑΣΟΛΑΟΣΕΙΣΤΟΟΡΟΣΤΟΑΓΙΟΝΚΑΙΕΚΑΘΙΣΕΝΚΑΙΕΚΕΝΩΘΗΗΠΟΛΙΣ</p><p class="greek">ΚΑΙΟΤΡΙΤΟΣΑΠΕΔΩΚΕΝΤΗΝΕΞΟΥΣΙΑΝΚΑΙΑΝΕΧΩΡΗΣΕΝΕΙΣΤΟΝΑΓΡΟΝΑΥΤΟΥΚΑΙΟΥΚΕΒΑΣΙΛΕΥΣΕΝΟΤΙΕΜΝΗΣΘΗΟΤΙΑΝΘΡΩΠΟΣΕΣΤΙΝ</p><p class="greek">ΚΑΙΕΙΔΟΝΤΑΣΒΟΑΣΕΞΕΡΧΟΜΕΝΑΣΕΚΤΟΥΣΠΗΛΑΙΟΥΕΙΣΤΟΦΩΣΚΑΙΟΥΚΕΤΙΗΣΑΝΒΟΕΣΑΛΛΑΑΝΘΡΩΠΟΙ</p><div class="divider" aria-hidden="true">⸏</div><p class="greek">ΣΑΛΠΙΣΑΤΕΣΑΛΠΙΓΓΙΕΝΤΩΕΤΕΙΤΩΠΕΝΤΗΚΟΣΤΩ</p><p class="greek">ΚΑΙΑΦΕΘΗΣΕΤΑΙΠΑΝΧΡΕΟΣΚΑΙΑΠΕΛΕΥΣΕΤΑΙΕΙΣΕΚΑΣΤΟΣΕΙΣΤΗΝΚΤΗΣΙΝΑΥΤΟΥ</p><p class="greek">ΕΠΙΣΤΡΕΨΕΙΟΔΟΥΛΟΣΠΡΟΣΤΗΝΜΗΤΕΡΑΑΥΤΟΥΚΑΙΟΥΚΕΣΤΑΙΕΘΝΟΣΕΚΛΕΚΤΟΝΥΠΕΡΕΘΝΟΣΟΥΔΕΦΡΑΓΜΟΣΑΝΑΜΕΣΟΝΛΑΟΥΚΑΙΛΑΟΥ</p><p class="greek">ΚΑΙΑΝΑΠΑΥΣΕΤΑΙΕΚΑΣΤΟΣΥΠΟΚΑΤΩΑΜΠΕΛΟΥΑΥΤΟΥΚΑΙΥΠΟΚΑΤΩΣΥΚΗΣΑΥΤΟΥΚΑΙΟΥΚΕΣΤΑΙΟΕΚΦΟΒΩΝ</p><p class="greek">ΚΑΙΟΤΡΟΧΟΣΣΤΡΕΦΕΤΑΙΑΛΛΟΥΚΕΝΑΙΜΑΤΙΚΑΙΗΓΟΥΝΤΑΙΑΛΗΘΕΙΑΚΑΙΠΙΣΤΙΣ</p><p class="greek">ΟΥΚΕΠΙΣΟΙΤΟΕΡΓΟΝΣΥΝΤΕΛΕΣΑΙΟΥΔΕΕΛΕΥΘΕΡΟΣΕΙΑΠΟΣΤΗΝΑΙΑΠΑΥΤΟΥ</p><p class="greek">ΗΒΑΣΙΛΕΙΑΕΦΑΠΛΩΜΕΝΗΕΠΙΤΗΣΓΗΣΚΑΙΟΙΑΝΘΡΩΠΟΙΟΥΒΛΕΠΟΥΣΙΝΑΥΤΗΝ</p><div class="divider" aria-hidden="true">⸏</div><p class="greek">ΚΑΙΔΙΑΒΟΗΣΕΤΕΑΦΕΣΙΝΕΠΙΤΗΣΓΗΣΠΑΣΙΝΤΟΙΣΚΑΤΟΙΚΟΥΣΙΝΑΥΤΗΝ</p><div class="divider" aria-hidden="true">⸎</div><div class="colophon"><p class="title">ΜΑΡΤΥΡΙΑ</p><p class="count">ΣΤΙΧΟΙ Νʹ</p><p class="greek">ΚΑΓΩΝΑΘΑΝΟΑΠΟΤΟΥΟΡΟΥΣΤΩΝΕΛΑΙΩΝΤΟΥΕΝΜΙΣΣΟΥΡΙΟΑΚΟΥΩΝΚΑΙΒΛΕΠΩΝΤΑΥΤΑ</p></div></div>
+<a class="next" href="/herding">A Brief History of Herding</a>
 </main>
-<footer>Updated 2026-10-26</footer>
 </body>
 </html>
