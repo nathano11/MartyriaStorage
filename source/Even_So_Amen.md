@@ -1,12 +1,12 @@
 # Even So, Amen
 
-*The first covenant was a deal over cattle. This is the history of how that deal got turned on people, and how to break it.*
+*The first covenant was a deal over cattle. This is a history of how that deal got turned on people, and how to break it.*
 
 ## How This Was Made
 
 This essay was written with an AI model, Claude. The ideas and the vision are the author's. The AI helped draft, source and fact-check the writing, composed the Greek testimony that goes with it, and checked every number by computer. You should know that up front, because a hidden hand on the record is exactly what this essay warns about.
 
-Two kinds of claims run through what follows. Most are documented, and you can check them in the sources at the end. Some are the author's own arguments, connections no textbook makes, and those are marked **Proposal**. Weigh them; don't swallow them. The standard scholarly reading counts as evidence, not a veto, and "the establishment would say that" isn't an answer either.
+It's also a case, not a survey. It gathers the evidence for one reading of history and leaves most of the evidence against it out. It answers a few objections near the end, but it never lays out the strongest case against its own ideas. Every fact in it is true as far as the author knows, but the selection is the argument. Some claims are documented, and you can check them in the sources at the end. Others are speculation with some evidence behind them. Those are marked **Proposal**, and the evidence against them is not presented here. Finding it is up to you.
 
 The author is a witness, not a judge. If you find an error, say so, and the essay changes.
 
@@ -14,9 +14,9 @@ The author is a witness, not a judge. If you find an error, say so, and the essa
 
 About ten thousand years ago, in the hills of what is now Turkey, people tamed the wild bull. That one change rewired the human race. The cattle line that spread across Europe and the Middle East started from a herd of about eighty animals.
 
-Before the herd, nobody had a boss. Hunter-gatherer groups like the Hadza in Tanzania and the !Kung in the Kalahari kept no slaves and put up with no kings. They had nothing to hoard, nobody owned the land, and anyone could walk away. If a hunter got cocky after a big kill, everyone made fun of the meat until he calmed down.
+For most of human history, nobody had a boss. Hunter-gatherer groups like the Hadza in Tanzania and the !Kung in the Kalahari kept no slaves and put up with no kings. They had nothing to hoard, nobody owned the land, and anyone could walk away. If a hunter got cocky after a big kill, everyone made fun of the meat until he calmed down.
 
-The herd changed all of that at once. It was the first wealth that grew by itself, and it could be counted, branded, bred and passed down to your sons. A 2017 study in the journal *Nature* measured inequality at dozens of ancient sites and found it was worst wherever people kept big animals. Whoever owned the oxen could plow more land and pass both on. The herd made the first rich men, and that made the first poor ones.
+The herd changed all of that. It was the first wealth that grew by itself, and it could be counted, branded, bred and passed down to your sons. A 2017 study in the journal *Nature* measured inequality at dozens of ancient sites and found it was worst wherever people kept big animals. Whoever owned the oxen could plow more land and pass both on. The herd made the first rich men, and that made the first poor ones.
 
 Our words still carry the brand. "Capital" and "cattle" come from the same Latin word. "Fee" comes from an old English word for cattle. In the oldest Hindu scripture, one of the words for war literally means "wanting cows." Even the Hebrew word for God's covenant may come from an older word meaning a chain or shackle, and the Bible's own picture matches. The prophet Ezekiel describes God bringing his people into the covenant by making them "pass under the rod" (Ezekiel 20:37). That is how a herdsman counts cattle at the gate.
 
@@ -44,7 +44,7 @@ The Bible you grew up with is the winner's version of the story, and the winner 
 
 There were two kingdoms. Israel in the north was the real power. Ancient Assyrian records say that in 853 BCE, "Ahab the Israelite" brought two thousand chariots to a battle, more than any other king there. Judah in the south was a small hill kingdom around Jerusalem.
 
-They were not one people. The oldest war poem in the Bible, the Song of Deborah, lists the tribes of Israel and never mentions Judah (Judges 5). Genesis itself says "Judah went down from his brethren" and settled among the Canaanites (Genesis 38:1). Judah's great hero Caleb came from a clan the Bible traces to Edom (Numbers 32:12; Genesis 36:11). An inscription from around 800 BCE names a "Yahweh of Samaria" in the north and a "Yahweh of Teman" in the south. And the north honored its god with golden calves at Bethel and Dan: "behold thy gods, O Israel, which brought thee up out of the land of Egypt" (1 Kings 12:28).
+**Proposal:** they were not one people. The oldest war poem in the Bible, the Song of Deborah, lists the tribes of Israel and never mentions Judah (Judges 5). Genesis itself says "Judah went down from his brethren" and settled among the Canaanites (Genesis 38:1). Judah's great hero Caleb came from a clan the Bible traces to Edom (Numbers 32:12; Genesis 36:11). An inscription from around 800 BCE names a "Yahweh of Samaria" in the north and a "Yahweh of Teman" in the south. And the north honored its god with golden calves at Bethel and Dan: "behold thy gods, O Israel, which brought thee up out of the land of Egypt" (1 Kings 12:28).
 
 When the Assyrian empire came, Israel fought. Judah's King Ahaz stripped the temple of its gold and silver, sent it to the Assyrian emperor, and sent word: "I am thy servant and thy son" (2 Kings 16:7). In 722 BCE Assyria wiped out Israel. Judah, the collaborator, survived, took in the northern refugees, and wrote the history of both.
 
@@ -84,7 +84,7 @@ And the ancient world knew how to break that chain. Around 2350 BCE, a ruler in 
 
 There is no record the Jubilee was ever actually kept, and the prophets were furious about it. Isaiah cursed the people who buy up house after house and field after field until nobody else has anything (Isaiah 5:8). Amos raged at those who "sold the poor for a pair of shoes" (Amos 2:6). Ezekiel spoke for God against the shepherds of Israel, meaning the kings and priests: you eat the fat, you wear the wool, but you do not feed the flock. "I am against the shepherds" (Ezekiel 34).
 
-Then came a carpenter from the north country that Jerusalem looked down on. In Luke's gospel, the first thing Jesus does in public is stand up and announce freedom for the captives and "the acceptable year of the Lord." That is the Jubilee. He taught people to pray "forgive us our debts." He drove the cattle sellers and the money changers out of the temple with a whip. He said the kings of the world lord it over their people, "but so shall it not be among you" (Mark 10:42–43). He said the good shepherd lays down his life for the sheep.
+Then came a carpenter from the north country that Jerusalem looked down on. In Luke's gospel, his first recorded sermon announces freedom for the captives and "the acceptable year of the Lord." That is the Jubilee. He taught people to pray "forgive us our debts." He drove the cattle sellers and the money changers out of the temple with a whip. He said the kings of the world lord it over their people, "but so shall it not be among you" (Mark 10:42–43). He said the good shepherd lays down his life for the sheep.
 
 For ten thousand years the herd died for the master. He said the master dies for the herd. The temple priests and the Roman governor had him killed.
 
@@ -92,9 +92,9 @@ For ten thousand years the herd died for the master. He said the master dies for
 
 Jesus never wrote anything down. The oldest Christian writings are letters from a man who never met him in life, who described himself as "of the tribe of Benjamin... a Pharisee" (Philippians 3:5). That man, Paul, gave Christianity its theology. And he gave it this: "Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God" (Romans 13:1). A letter written under his name adds: "Servants, be obedient to them that are your masters... with fear and trembling" (Ephesians 6:5).
 
-The man who refused to take over the world was followed by a teacher who told the world to obey whoever already had it. Those verses became the favorite lines of kings and slaveholders for centuries. Preachers loyal to the British king used Romans 13 against the American Revolution. A missionary Bible printed for slaves in 1807 cut out the story of the Exodus and kept "Servants, be obedient." South Africa's apartheid government used Romans 13 to demand obedience. Thomas Jefferson called Paul the "first corruptor of the doctrines of Jesus."
+The man who said rulers must not lord it over people was followed by a teacher who told the world to obey whoever already had it. Those verses became the favorite lines of kings and slaveholders for centuries. Preachers loyal to the British king used Romans 13 against the American Revolution. A missionary Bible printed for slaves in 1807 cut out the story of the Exodus and kept "Servants, be obedient." South Africa's apartheid government used Romans 13 to demand obedience. Thomas Jefferson called Paul the "first corruptor of the doctrines of Jesus."
 
-Then the church became Rome. In 312 the emperor Constantine adopted Christianity, and soon it was the official religion of the empire. The movement that started by announcing a debt cancellation became the empire's church. Its bishops became landlords. Somebody forged a document, the "Donation of Constantine," claiming the emperor gave the pope power over the West; popes used it for centuries until a scholar proved it fake in 1440.
+Then the church became Rome. In 312 the emperor Constantine adopted Christianity, and by 380 it was the official religion of the empire. The movement that started by announcing a debt cancellation became the empire's church. Its bishops became landlords. Somebody forged a document, the "Donation of Constantine," claiming the emperor gave the pope power over the West; popes used it for centuries until a scholar proved it fake in 1440.
 
 It kept happening. In 1517 Martin Luther started his break with the church, and soon wrote that every Christian is free. In 1525 the German peasants took him at his word and demanded their freedom, arguing from the Bible. Luther told the princes to "smite, slay and stab" them like mad dogs. About a hundred thousand were killed. A century later the Puritans fled religious persecution to America, and then hanged four Quakers on Boston Common for refusing to stop preaching.
 
@@ -120,7 +120,7 @@ Every system of control in history is built from the same tools. Once you see th
 
 **The pasture.** Comfort. Two thousand years ago the Roman writer Juvenal said the people who once ruled Rome now wanted only "bread and circuses." In 2017 Facebook's first president said the platform was designed to grab as much of people's time and attention as possible by exploiting "a vulnerability in human psychology." The pasture is the only tool the herd defends.
 
-**The ladder.** The secret exit the masters keep for themselves. In 1871 Albert Pike, the man who shaped the 33 degrees of Scottish Rite Freemasonry, wrote that the lower ranks are "intentionally misled by false interpretations. It is not intended that he shall understand them; but it is intended that he shall imagine he understands them." Pike was also a slaveholder and a Confederate general. In January 2026 the government released more than three million pages of the Epstein files, and survivors said their own names kept coming out while the men who abused them stayed hidden, and by October seventeen state attorneys general were demanding the files the government still hadn't released. The flock gets exposed. The shepherds get blacked out.
+**The ladder.** The secret exit the masters keep for themselves. In 1871 Albert Pike, the man who shaped the 33 degrees of Scottish Rite Freemasonry, wrote that the lower ranks are "intentionally misled by false interpretations. It is not intended that he shall understand them; but it is intended that he shall imagine he understands them." Pike was also a slaveholder and a Confederate general. In January 2026 the government released more than three million pages of the Epstein files, and survivors said their own names kept coming out while the men who abused them stayed hidden. By October, seventeen state attorneys general were demanding the files the government still hadn't released. The flock gets exposed. The shepherds get blacked out.
 
 ## 8. Money is God
 
@@ -196,11 +196,11 @@ Even Revelation's scariest picture of Jesus coming back points the same way. The
 
 ## 14. The Third
 
-The oldest story the herders told wasn't about a king. It was about a hero. Scholars who rebuilt the myths of the first chariot peoples found the same tale in India, Iran and Greece. A serpent steals the cattle and hides them in a cave. A hero, often called the Third, kills the serpent, breaks open the rock and drives the cattle out. In India he is Trita. In Iran he is Thraetaona. The Greeks told it as Heracles taking the cattle of three-headed Geryon. And notice the end of the story: the hero frees the cattle. He doesn't keep them.
+One of the oldest stories the herders told wasn't about a king. It was about a hero. Scholars who rebuilt the myths of the ancient steppe herders found the same tale in India, Iran and Greece. A serpent steals the cattle and hides them in a cave. A hero, often called the Third, kills the serpent, breaks open the rock and drives the cattle out. In India he is Trita. In Iran he is Thraetaona. The Greeks told it as Heracles taking the cattle of three-headed Geryon. And notice the end of the story: the hero frees the cattle. He doesn't keep them.
 
-The companion testimony, ΜΑΡΤΥΡΙΑ, puts the Third at its center, and he appears exactly three times. First he is the warrior who kills the serpent, with the Word for his sword. Then he is the one who stands between two: "Where two are gathered in truth and love, there I am, the third between them." Last, he gives back his power and goes home to his field, like Cincinnatus and Washington.
+The companion testimony, ΜΑΡΤΥΡΙΑ, puts the Third at its center, and he appears exactly three times. First he is the warrior who kills the serpent, with the Word for his sword. Then he is the one who stands between two: "Where two are gathered in truth and love, there I am, the third between them." Last, he gives back his power and goes home to his field. That is his sacrifice: he lays down what he won.
 
-**Proposal:** these aren't three answers. They are one figure seen from three sides: the warrior, the sacrifice and the bond between people. Each one fails alone. Force without sacrifice becomes the empire. Sacrifice without force gets crushed, or bought. Revelation has the picture. John is told to look for the Lion of Judah, and he turns and sees a Lamb (Revelation 5:5–6). The lion and the lamb are the same one.
+**Proposal:** these aren't three answers. They are one figure seen from three sides: the warrior, the bond between people and the sacrifice. Each one fails alone. Force without sacrifice becomes the empire. Sacrifice without force gets crushed, or bought. A bond with neither is kind, and powerless. Revelation has the picture. John is told to look for the Lion of Judah, and he turns and sees a Lamb (Revelation 5:5–6). The lion and the lamb are the same one. Whether Jesus really belongs on the same family tree as Trita and Heracles is a separate question. The Third can be a powerful way to see him even if the family tree is wrong.
 
 His road runs downward. He washes feet, refuses the kingdoms of the world and lays down his life, and the one who empties himself is raised up (Philippians 2:7–9). "The last shall be first" (Matthew 20:16). "He hath put down the mighty from their seats, and exalted them of low degree" (Luke 1:52).
 
@@ -216,11 +216,15 @@ The one at the top owes the most: to put the people's good ahead of his own, and
 
 The proof has to be public, because the cheapest claim in the world is a spiritual one. Anyone can say his heart is pure. A sacrifice nobody can see is the Pharisee's move all over again, turning the Third's teaching into "servants, obey your masters." A real one shows up in works.
 
-The hero who kills the serpent, the king who lays down his life and the third between two are not three answers. They are one, seen from three positions. Force is sometimes necessary and sacrifice sometimes required, but each belongs to the Third only if the one who acts bears the cost and hands back what he won. The wheel stops turning in blood when those at the top pay first, and everyone else refuses to be anyone's rope.
+Sometimes the old structure is too strong to break any other way, and the people have to lend someone real power. That is what the many do in the wheel, and it usually ends with a new master. The difference is in the terms. Rome's dictator held total power in an emergency, but by law for six months at most. By Roman tradition, Cincinnatus needed sixteen days, then resigned and went back to his plow. A throne lent by the people, with a clock on it and a way to take it back, is a loan. A throne claimed from God, or held with no clock, never comes back. The throne was never the problem. Keeping it is.
+
+**Proposal:** the Third is also the bond between people, the one who stands between two, and any power the people lend him comes out of that bond. When he refuses to give it back, he breaks the very relationship that made him the Third. He stops being the Third and becomes the strongman of the wheel.
+
+That is the whole test. Force is sometimes necessary and sacrifice sometimes required, but each belongs to the Third only if the one who acts bears the cost and hands back what he won. The wheel stops turning in blood when those at the top pay first, and everyone else refuses to be anyone's rope.
 
 ## 16. Ask These Questions
 
-Somebody has to lead the hunt. The problem is power without responsibility. Hold these questions up to any government, company, church or movement:
+So the problem isn't leaders. It's power without responsibility. Hold these questions up to any government, company, church or movement:
 
 Can you leave without being ruined? What do you owe, and can it ever be forgiven? What story tells you this is your place? Who keeps the record, and whose names get blacked out? Who are you being told to blame? Who carries the risk when things go wrong? Can the leaders be removed? Who is exempt from the rules? What do you actually worship? And are you comfortable, or are you free?
 
@@ -234,15 +238,15 @@ Can you leave without being ruined? What do you owe, and can it ever be forgiven
 
 **"'Dominion' in Genesis means taking care of creation."** That "stewardship" reading is mostly modern. The actual Hebrew words are the same ones the Bible uses for debt slavery and for masters ruling slaves. Read them in their own language and they mean what they mean.
 
-**"Paul agreed with Jesus. He also wrote that in Christ there is 'neither slave nor free.'"** He did. Most scholars see Paul and Jesus as more connected than this book does, and many doubt Paul wrote Ephesians. But Paul never ordered a master to free his slaves or a ruler to step down. He told subjects that the powers that be are ordained by God. Jesus said rulers lord it over people, "but so shall it not be among you." Whatever Paul meant, his obedience verses are the ones kings and slaveholders quoted for 1,900 years.
+**"Paul agreed with Jesus. He also wrote that in Christ there is 'neither slave nor free.'"** He did. Most scholars see Paul and Jesus as more connected than this essay does, and many doubt Paul wrote Ephesians. But Paul never ordered a master to free his slaves or a ruler to step down. He told subjects that the powers that be are ordained by God. Jesus said rulers lord it over people, "but so shall it not be among you." Whatever Paul meant, his obedience verses are the ones kings and slaveholders quoted for 1,900 years.
 
-**"Money and markets lifted billions out of poverty."** True, and this book says so: the few really do make societies rich at first. The problem is what comes after, when money outranks the law, the church and the government. A bank too big to jail is being worshipped, not regulated.
+**"Money and markets lifted billions out of poverty."** True, and this essay says so: the few really do make societies rich at first. The problem is what comes after, when money outranks the law, the church and the government. A bank too big to jail is being worshipped, not regulated.
 
 **"Debt forgiveness is a fantasy."** It's been done for four thousand years, from ancient Iraq to Athens to Germany in 1953. In 2008 the banks got rescued and millions of homeowners didn't. The only question is who gets it.
 
 **"This blames the Jews."** No. The villain here is a pattern, not a people. Judah's ancient scribes are in it, and so are pharaohs, Roman senators, popes, Luther, the Puritans, American cattle barons and bankers of every faith. Jews have been the masters' favorite scapegoat, taxed, expelled and robbed, and the "Jewish conspiracy" myth is itself one of the herder's oldest tricks. A herd that blames a minority never looks up at who's actually holding the rope.
 
-**"Someone has to be in charge."** Agreed. The question was never whether we have leaders. It's whether they answer for the flock or rule it for themselves.
+**"Someone has to be in charge."** Agreed. The question was never whether we have leaders. It's whether their power is lent or owned, and whether they answer for the flock or rule it for themselves.
 
 ## The Testimony
 
@@ -264,17 +268,15 @@ This essay has a companion: ΜΑΡΤΥΡΙΑ, fifty lines of Koine Greek, the la
 | ΜΕΙΘΡΑΣ (Mithras, as Jerome spelled it) | 365 | The days of the year |
 | The whole text | 558,600 = 1050 × 532 | The Third, multiplied |
 
-Every figure was checked by script against standard Greek letter values, Α = 1 through Ω = 800. The sums prove the text was built on purpose. They don't prove its reading is right. And because the spelling carries the numbers, the Greek is locked: no letter will ever change, and its oddities get notes, not edits. This essay is the opposite. It stays open to correction.
+Every figure was checked by script against standard Greek letter values, Α = 1 through Ω = 800. The sums prove the text was built to hit these numbers, and nothing more. They don't show that the numbers reveal a hidden truth, that the traditions compared here share a common source, or that this essay's reading is right. A pattern can be intentional without being ancient, meaningful without being universal, and illuminating without being proof. The real question is what would tell a connection that explains something apart from one that was chosen because it fits. And because the spelling carries the numbers, the Greek is locked: no letter will ever change, and its oddities get notes, not edits. This essay is the opposite. It stays open to correction.
 
 **The serpent.** Grain and debt are the serpent's two faces. In Greek, *ophis*, serpent, and *sitos*, grain, both add up to 780, and *drakon*, dragon, and *chreos*, debt, both add up to 975. The ledger is the dragon's tool. And the system eats its own servants: the priest is sold for silver, and the priests who served the bull die on their own altars.
 
-**The land of the setting sun.** The testimony never names America. It calls her the great land of the setting sun, the daughter of the exodus, who wrote on her seal that resistance to tyrants is obedience to God. Then she becomes Babylon the Great. An honest witness indicts his own country first, and the way back is the one Revelation gives: remember where you fell from, and do the first works.
+**The land of the setting sun.** The testimony never names America. It calls her the great land of the setting sun, the daughter of the exodus, who wrote on her seal that rebellion to tyrants is obedience to God. Then she becomes Babylon the Great. An honest witness indicts his own country first, and the way back is the one Revelation gives: remember where you fell from, and do the first works.
 
 **The Jubilee shape.** Seven sections of seven lines, then one more, is the Jubilee count of Leviticus 25. The Book of Jubilees orders all of history in cycles of forty-nine years, and it survives complete only in Ge'ez, the old church language of Ethiopia. The Ethiopian Orthodox Tewahedo Church kept it, along with the Book of Enoch, through the centuries when other churches lost it. To them this shape isn't a code. It's simply how time is counted.
 
 **Between the texts.** **Proposal:** the Greek and the essay need each other. The Greek is compressed, locked and numerical. The essay is open, sourced and arguable. Alone, the Greek is a puzzle with no key, and the essay describes something you can't inspect. What neither holds alone shows up between them, which is the shape of the Third himself, the one who stands between two. You are the second party, and the meaning lives between you and the text. A form can't prove its own claim, so test it.
-
-**A caution.** The testimony may commit the very sin it condemns. It builds a framework that explains everything: ten tools for every kind of mastery, one wheel for every cycle, one Third who answers them all, and numbers that lock it together. A story that explains everything and can't be corrected has the shape of the pen, and the Greek even says of the serpent's order that there is no outside. The only defense is the one this essay uses. Mark the arguments as proposals. Say how the text was made. Hand over everything that can be checked, invite people to prove it wrong, and let the witness be wrong.
 
 ## Sources
 
@@ -286,7 +288,7 @@ Online: on the covenant word, michaelcarasik.substack.com/p/an-offer-noah-cant-r
 
 Suppose the pen is comfortable. You're fed better than any king of Babylon, entertained nonstop, cured of diseases that killed all your ancestors. Nobody whips you. All they ask is that you never ask who holds the rope. Is that a life?
 
-The masters have always said yes. In Dostoevsky's story, the Grand Inquisitor says the people will finally beg: "Make us your slaves, but feed us." Frederick Douglass, who escaped slavery, answered: to make a contented slave, you have to make a thoughtless one. On March 23, 1775, Patrick Henry put it plainest: "Is life so dear, or peace so sweet, as to be purchased at the price of chains and slavery? Forbid it, Almighty God! I know not what course others may take; but as for me, give me liberty or give me death!"
+The masters have always said yes. In Dostoevsky's story, the Grand Inquisitor says the people will finally beg: "Make us your slaves, but feed us." Frederick Douglass, who escaped slavery, had already given the answer: to make a contented slave, you have to make a thoughtless one. On March 23, 1775, Patrick Henry put it plainest: "Is life so dear, or peace so sweet, as to be purchased at the price of chains and slavery? Forbid it, Almighty God! I know not what course others may take; but as for me, give me liberty or give me death!"
 
 The oldest known word for freedom meant a debt slave going home to his mother. Everything the masters took, the right to leave, to keep what you make, to remove who rules you, to stand in your own skin without shame, was taken by men. So it can be taken back.
 
@@ -295,5 +297,19 @@ You won't finish the job. Nobody ever has. An ancient rabbi named Tarfon said: i
 By Roman tradition, when a general rode through the city in triumph, a voice behind him kept whispering that he was only a man. Remember that about them. Remember it about yourself. You're going to die. The only question is whether you'll live first.
 
 Rebellion to tyrants is obedience to God. They wrote it on the first draft of this country's seal.
+
+## Amen
+
+Here is what this essay holds with no Proposal attached. No one gets to use God to stand over other people: not to rule them, not to own them, not to kill them. That is the plainest thing the carpenter taught. He washed feet. He told his followers that the rulers of the world lord it over people, "but so shall it not be among you." He said to love your enemies. If every Proposal in these pages turns out to be wrong, that still stands, because it never rested on them.
+
+Now turn this essay's questions on the essay itself.
+
+Look at what it did. It took scattered facts from ten thousand years and gave them one shape: the herd, the rope, the wheel, the Third. Once you have the shape, you start seeing it everywhere. That is exactly how every system in this essay worked. Judah's scribes gave history one shape, and the calf became a sin. Paul's letters gave it one shape, and the slave owed obedience. The ledger gave it one shape, and the number became god. A framework that explains everything, leaves no outside and treats its doubters as fools or sinners is the pen, whoever builds it. That includes this one. Its objections were all answered, its numbers all lock, and it always tells you who the villain is. That should make you suspicious, not certain.
+
+So ask it the same questions. Can you walk away from it without being called a fool? What did it leave out? Who does it want you to blame? Does it ever let itself be wrong?
+
+One test cuts both ways, and it comes from the carpenter too: "Ye shall know them by their fruits" (Matthew 7:16). Judge any reading of God, this one included, by what it does to people. If it makes you serve, forgive and tell the truth, keep it. If it makes you feel chosen above your neighbor, hands you someone to hate, or takes a throne and won't give it back, it has become the thing it was written against. Drop it, no matter how beautiful the pattern. Lend the Third a throne if you must. Never let him keep it.
+
+Amen is the word a congregation says when it agrees. It means "truly," or "so be it." Revelation even calls Jesus "the Amen, the faithful and true witness" (Revelation 3:14): a witness, not a throne. So don't say it because this essay said it. Check it. And if it holds:
 
 Even so, amen.
